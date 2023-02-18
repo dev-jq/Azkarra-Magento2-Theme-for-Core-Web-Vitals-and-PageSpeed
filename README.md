@@ -7,22 +7,27 @@ Based on my several years of experience in working on the frontend in Magento an
 
 ## :chart_with_upwards_trend: Theme features comparison: Azkara vs Magento Luma
 
-|feature| Azkarra | Luma |
+| feature | Azkarra | Luma |
 | --- | --- | --- |
 | address fields in customer registration | :heavy_check_mark: | :x: |
 | show/hide icon in password field | :heavy_check_mark: | :x: |
 | scroll 'back to top' button | :heavy_check_mark: | :x: |
 | auto-scroll to the visible system message | :heavy_check_mark: | :x: |
+| auto-open minicart after product added | :heavy_check_mark: | :x: |
 | sticky header on scroll | :heavy_check_mark: | :x: |
 | visible breadcrumbs on mobile and on customer pages | :heavy_check_mark: | :x: |
 | attribute icons on product page | :heavy_check_mark: | :x: |
 | category thumbnail image upload  | :heavy_check_mark: | :x: |
 | full page icons (browser favicon and Windows, Android, Apple touch icons) | :heavy_check_mark: | :x: |
 | mobile menu with close (X button) | :heavy_check_mark: | :x: |
-| lazyload for images | :heavy_check_mark: | :x: |
+| lazyload for images and background-images | :heavy_check_mark: | :x: |
 | slick slider (for products block:  -related, -upsell) | :heavy_check_mark: | :x: |
 | simple product labels (new, bestseller, sale, unavailable) | :heavy_check_mark: | :x: |
 | dynamic wishlist hearth icon (:white_heart:, :heart: - when added) | :heavy_check_mark: | :x: |
+| product top section (main-info or gallery) sticky on scroll | :heavy_check_mark: | :x: |
+| plus/minus buttons (to increase and decrease quantity) | :heavy_check_mark: | :x: |
+| category products count number (after category title) | :heavy_check_mark: | :x: |
+| diplay product slider on empty cart page | :heavy_check_mark: | :x: |
 | ... | ... | ... |
 
 :hourglass_flowing_sand: still in progress...
