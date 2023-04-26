@@ -37,6 +37,10 @@ Based on my several years of experience in working on the frontend in Magento an
 
 Follow and wait here for more information and updates!
 
+## [26.04.2023] Teaser - currently category page view:
+
+![Azkara Theme - product page teaser](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/teaser-category.gif)
+
 ## [25.02.2023] Teaser - currently product page view:
 
 ![Azkara Theme - product page teaser](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/teaser.gif)
