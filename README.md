@@ -28,6 +28,7 @@ Based on my several years of experience in working on the frontend in Magento an
 | plus/minus buttons (to increase and decrease quantity) | :heavy_check_mark: | :x: |
 | category products count number (after category title) | :heavy_check_mark: | :x: |
 | diplay product slider on empty cart page | :heavy_check_mark: | :x: |
+| basic product labels (new, sale, bestseller, unavailable) | :heavy_check_mark: | :x: |
 | ... | ... | ... |
 
 :hourglass_flowing_sand: still in progress...
