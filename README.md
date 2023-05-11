@@ -5,6 +5,9 @@
 It will be propably the fastest and most optimized Magento 2.4.x theme! Based on Magento Luma, but optimized for Core Web Vitals and SEO.
 Based on my several years of experience in working on the frontend in Magento and ... other skins (e.g. WeltPixel Pearl or Swissup Argento) the best solutions in one skin!
 
+## :star: In short
+**This template is the best alternative to the basic Magento Luma template, which lacks many things.** Treat it as an excellent foundation for further developing more advanced 3rd party functionalities for your store!
+
 ## :chart_with_upwards_trend: Theme features comparison: Azkarra vs Magento Luma
 
 | feature | Azkarra | Luma |
