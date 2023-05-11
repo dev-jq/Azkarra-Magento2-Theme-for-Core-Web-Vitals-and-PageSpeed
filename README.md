@@ -5,7 +5,7 @@
 It will be propably the fastest and most optimized Magento 2.4.x theme! Based on Magento Luma, but optimized for Core Web Vitals and SEO.
 Based on my several years of experience in working on the frontend in Magento and ... other skins (e.g. WeltPixel Pearl or Swissup Argento) the best solutions in one skin!
 
-## :chart_with_upwards_trend: Theme features comparison: Azkara vs Magento Luma
+## :chart_with_upwards_trend: Theme features comparison: Azkarra vs Magento Luma
 
 | feature | Azkarra | Luma |
 | --- | --- | --- |
@@ -29,6 +29,7 @@ Based on my several years of experience in working on the frontend in Magento an
 | category products count number (after category title) | :heavy_check_mark: | :x: |
 | diplay product slider on empty cart page | :heavy_check_mark: | :x: |
 | basic product labels (new, sale, bestseller, unavailable) | :heavy_check_mark: | :x: |
+| auto-select swatch when only one option is available | :heavy_check_mark: | :x: |
 | ... | ... | ... |
 
 :hourglass_flowing_sand: still in progress...
