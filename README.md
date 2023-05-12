@@ -8,6 +8,10 @@ Based on my several years of experience in working on the frontend in Magento an
 ## :star: In short
 **This template is the best alternative to the basic Magento Luma template, which lacks many things.** Treat it as an excellent foundation for further developing more advanced 3rd party functionalities for your store!
 
+## :+1: Performance results [12.05.2023]
+*Sample measurement results for mobile and desktop on the category page with demo data in the developer environment (Chrome Lighthouse):*
+![Azkara Theme - category Lighthouse results](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/category-chrome-lighthouse.png.)
+
 ## :chart_with_upwards_trend: Theme features comparison: Azkarra vs Magento Luma
 
 | feature | Azkarra | Luma |
