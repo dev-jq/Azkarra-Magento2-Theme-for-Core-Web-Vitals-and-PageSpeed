@@ -10,7 +10,7 @@ Based on my several years of experience in working on the frontend in Magento an
 
 ## :+1: Performance results [12.05.2023]
 *Sample measurement results for mobile and desktop on the category page with demo data in the developer environment (Chrome Lighthouse):*
-![Azkara Theme - category Lighthouse results](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/category-chrome-lighthouse.png.)
+![Azkara Theme - category Lighthouse results](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/category-chrome-lighthouse.png)
 
 ## :chart_with_upwards_trend: Theme features comparison: Azkarra vs Magento Luma
 
