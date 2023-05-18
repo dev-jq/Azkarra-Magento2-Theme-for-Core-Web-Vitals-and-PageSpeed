@@ -34,9 +34,10 @@ Based on my several years of experience in working on the frontend in Magento an
 | product top section (main-info or gallery) sticky on scroll | :heavy_check_mark: | :x: |
 | plus/minus buttons (to increase and decrease quantity) | :heavy_check_mark: | :x: |
 | category products count number (after category title) | :heavy_check_mark: | :x: |
-| diplay product slider on empty cart page | :heavy_check_mark: | :x: |
+| display product slider on empty cart page | :heavy_check_mark: | :x: |
 | basic product labels (new, sale, bestseller, unavailable) | :heavy_check_mark: | :x: |
 | auto-select swatch when only one option is available | :heavy_check_mark: | :x: |
+| size chart modal on configurable product page | :heavy_check_mark: | :x: |
 | ... | ... | ... |
 
 :hourglass_flowing_sand: still in progress...
