@@ -1,4 +1,4 @@
-# SOON! Azkarra Theme (PREMIUM) for Core Web Vitals and SEO
+# SOON! Azkarra Theme optimized for Core Web Vitals and SEO
 
 ## :rocket: I'm working on theme named "Azkarra" - [why? what does it mean?](https://translate.google.com/?hl=pl&sl=eu&tl=en&text=Azkarra&op=translate)
 
