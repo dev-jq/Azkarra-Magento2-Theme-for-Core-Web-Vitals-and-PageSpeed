@@ -1,5 +1,7 @@
 # SOON! Azkarra Theme optimized for Core Web Vitals and SEO
 
+![Azkara Theme - cover](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/azkarra-cover.jpg)
+
 ## :rocket: I'm working on theme named "Azkarra" - [why? what does it mean?](https://translate.google.com/?hl=pl&sl=eu&tl=en&text=Azkarra&op=translate)
 
 It will be propably the fastest and most optimized Magento 2.4.x theme! Based on Magento Luma, but optimized for Core Web Vitals and SEO.
