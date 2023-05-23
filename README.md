@@ -7,8 +7,21 @@
 It will be propably the fastest and most optimized Magento 2.4.x theme! Based on Magento Luma, but optimized for Core Web Vitals and SEO.
 Based on my several years of experience in working on the frontend in Magento and ... other skins (e.g. WeltPixel Pearl or Swissup Argento) the best solutions in one skin!
 
-## :star: In short
+## :star: Why Azkarra?
 **This template is the best alternative to the basic Magento Luma template, which lacks many things.** Treat it as an excellent foundation for further developing more advanced 3rd party functionalities for your store!
+
+:point_right: **Native theme** (based on Magento Luma), but much more refined and optimized.
+
+:point_right: **High performance** scores **without** the need for **Hyva or PWA**.
+
+:point_right: Multi-purpose **theme for any industry**: simple and aesthetic appearance without unnecessary effects that could slow down the store's performance.
+
+:point_right: You will receive PDF documentation for the template and guidelines to follow in order to maintain high performance when implementing additional external modules and functionalities.
+
+:point_right: **Free updates** in case of any potential issues.
+
+:point_right: **One purchase without domain licenses!** Feel free to use Azkarra solutions in multiple projects :)
+
 
 ## :+1: Performance results [12.05.2023]
 *Sample measurement results for mobile and desktop on the category page with demo data in the developer environment (Chrome Lighthouse):*
