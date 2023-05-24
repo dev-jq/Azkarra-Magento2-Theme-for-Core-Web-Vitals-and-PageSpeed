@@ -52,6 +52,7 @@ Get ready for the fastest and most optimized Magento 2.4.x theme - Azkarra! Base
 | basic product labels (new, sale, bestseller, unavailable) | :heavy_check_mark: | :x: |
 | auto-select swatch when only one option is available | :heavy_check_mark: | :x: |
 | size chart modal on configurable product page | :heavy_check_mark: | :x: |
+| footer columns with accordion on mobile | :heavy_check_mark: | :x: |
 | ... | ... | ... |
 
 :hourglass_flowing_sand: still in progress...
