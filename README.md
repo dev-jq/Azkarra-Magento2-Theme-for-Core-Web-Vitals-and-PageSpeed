@@ -44,7 +44,7 @@ Get ready for the fastest and most optimized Magento 2.4.x theme - Azkarra! Base
 | lazyload for images and background-images | :heavy_check_mark: | :x: |
 | slick slider (for products block:  -related, -upsell) | :heavy_check_mark: | :x: |
 | simple product labels (new, bestseller, sale, unavailable) | :heavy_check_mark: | :x: |
-| dynamic wishlist hearth icon (:white_heart:, :heart: - when added) | :heavy_check_mark: | :x: |
+| dynamic wishlist hearth icon (:white_heart: - default state, :heart: - when added) | :heavy_check_mark: | :x: |
 | product top section (main-info or gallery) sticky on scroll | :heavy_check_mark: | :x: |
 | plus/minus buttons (to increase and decrease quantity) | :heavy_check_mark: | :x: |
 | category products count number (after category title) | :heavy_check_mark: | :x: |
@@ -53,6 +53,7 @@ Get ready for the fastest and most optimized Magento 2.4.x theme - Azkarra! Base
 | auto-select swatch when only one option is available | :heavy_check_mark: | :x: |
 | size chart modal on configurable product page | :heavy_check_mark: | :x: |
 | footer columns with accordion on mobile | :heavy_check_mark: | :x: |
+| footer brand logos (social media & services) | :heavy_check_mark: | :x: |
 | ... | ... | ... |
 
 :hourglass_flowing_sand: still in progress...
