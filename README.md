@@ -6,6 +6,17 @@
 
 Get ready for the fastest and most optimized Magento 2.4.x theme - Azkarra! Based on Magento Luma, it's tailored for exceptional Core Web Vitals and SEO performance. Drawing from years of frontend expertise in Magento and other renowned skins like WeltPixel Pearl and Swissup Argento, Azkarra combines the best solutions into a single skin!
 
+## alarm_clock: When and how?
+
+My plan assumes:
+
+:point_right: live demo with Magento sample data: **June 2023**
+
+:point_right: Initial release and purchase available: **July 2023** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme)
+
+### :loudspeaker: For FOLLOWERS: I plan to share a discount code -50$ for the first 10 orders!
+
+
 ## :star: Why Azkarra?
 **This template is the best alternative to the basic Magento Luma template, which lacks many things.** Treat it as an excellent foundation for further developing more advanced 3rd party functionalities for your store!
 
