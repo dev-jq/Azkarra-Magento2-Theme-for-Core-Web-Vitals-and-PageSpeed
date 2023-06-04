@@ -14,7 +14,7 @@ My plan assumes:
 
 :point_right: live demo with Magento sample data: **June 2023**
 
-:point_right: Initial release and purchase available: **July 2023** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme)
+:point_right: Initial release and purchase available: **July-August 2023** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme)
 
 
 ## :star: Why Azkarra?
@@ -32,8 +32,11 @@ My plan assumes:
 
 :point_right:  **One-time purchase without domain licenses!** Utilize Azkarra across multiple projects with ease!
 
+## :+1: Performance (production) results [04.06.2023]
+*Sample measurement results for mobile and desktop on the homepage page with demo data on external webserver in production mode (Google Pagespeed):*
+![Azkara Theme - homepage PageSpeed results](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/homepage-pagespeed.png)
 
-## :+1: Performance results [12.05.2023]
+## :+1: Performance (developer0 results [12.05.2023]
 *Sample measurement results for mobile and desktop on the category page with demo data in the developer environment (Chrome Lighthouse):*
 ![Azkara Theme - category Lighthouse results](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/category-chrome-lighthouse.png)
 
