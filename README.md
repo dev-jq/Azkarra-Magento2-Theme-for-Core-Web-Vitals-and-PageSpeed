@@ -36,7 +36,7 @@ My plan assumes:
 *Sample measurement results for mobile and desktop on the homepage page with demo data on external webserver in production mode (Google Pagespeed):*
 ![Azkara Theme - homepage PageSpeed results](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/homepage-pagespeed.png)
 
-## :+1: Performance (developer0 results [12.05.2023]
+## :+1: Performance (developer) results [12.05.2023]
 *Sample measurement results for mobile and desktop on the category page with demo data in the developer environment (Chrome Lighthouse):*
 ![Azkara Theme - category Lighthouse results](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/category-chrome-lighthouse.png)
 
