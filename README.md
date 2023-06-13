@@ -68,6 +68,8 @@ My plan assumes:
 | size chart modal on configurable product page | :heavy_check_mark: | :x: |
 | footer columns with accordion on mobile | :heavy_check_mark: | :x: |
 | footer brand logos (social media & services) | :heavy_check_mark: | :x: |
+| hover image in products list| :heavy_check_mark: | :x: |
+| checkout 'Order as: Business or Private person" option | :heavy_check_mark: | :x: |
 | ... | ... | ... |
 
 :hourglass_flowing_sand: still in progress...
