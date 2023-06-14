@@ -74,6 +74,17 @@ My plan assumes:
 
 :hourglass_flowing_sand: still in progress...
 
+## :bell: About project files
+### :star: PREMIUM
+- **JqDev_AzkarraTheme** module
+- **JqDev_WebVital**s module
+- **JqDev_CheckoutCustomization** module
+- **jq-dev/azzkarra** theme core
+
+### :white_check_mark: FREE
+- **jq-dev/my_azzkarra** child theme for your customizations
+- **/scripts** custom php scripts for Magento CLI
+
 ## :star: Interested? 
 *The more people interested, the more motivation for me for work* 
 
