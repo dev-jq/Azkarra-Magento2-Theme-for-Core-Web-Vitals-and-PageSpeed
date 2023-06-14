@@ -10,8 +10,6 @@ Get ready for the fastest and most optimized Magento 2.4.x theme - Azkarra! Base
 
 My plan assumes:
 
-### :loudspeaker: For FOLLOWERS: I plan to share a discount code -50$ for the first 10 orders!
-
 :point_right: live demo with Magento sample data: **June 2023**
 
 :point_right: Initial release and purchase available: **July-August 2023** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme)
@@ -75,13 +73,15 @@ My plan assumes:
 :hourglass_flowing_sand: still in progress...
 
 ## :bell: About project files
-### :star: PREMIUM
+### :star: PREMIUM ([on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme))
 - **JqDev_AzkarraTheme** module
-- **JqDev_WebVital**s module
+- **JqDev_WebVitals** module
 - **JqDev_CheckoutCustomization** module
 - **jq-dev/azzkarra** theme core
 
-### :white_check_mark: FREE
+:loudspeaker: For FOLLOWERS: I plan to share a **discount code -50$ for the first 10 orders!**
+
+### :white_check_mark: FREE (in this repo)
 - **jq-dev/my_azzkarra** child theme for your customizations
 - **/scripts** custom php scripts for Magento CLI
 
