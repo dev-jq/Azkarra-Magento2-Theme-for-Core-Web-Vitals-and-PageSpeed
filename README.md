@@ -1,6 +1,6 @@
 # SOON! Azkarra Theme optimized for Core Web Vitals and SEO
 
-![Azkara Theme - cover](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/azkarra-cover.jpg)
+![Azkara Theme - cover](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/azkarra-cover.jpg)
 
 ## :rocket: I'm working on theme named "Azkarra" - [what does it mean?](https://translate.google.com/?hl=pl&sl=eu&tl=en&text=Azkarra&op=translate)
 
@@ -34,11 +34,11 @@ My plan assumes:
 
 ## :+1: Performance (production) results [04.06.2023]
 *Sample measurement results for mobile and desktop on the homepage page with demo data on external webserver in production mode (Google Pagespeed):*
-![Azkara Theme - homepage PageSpeed results](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/homepage-pagespeed.png)
+![Azkara Theme - homepage PageSpeed results](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/homepage-pagespeed.png)
 
 ## :+1: Performance (developer) results [12.05.2023]
 *Sample measurement results for mobile and desktop on the category page with demo data in the developer environment (Chrome Lighthouse):*
-![Azkara Theme - category Lighthouse results](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/category-chrome-lighthouse.png)
+![Azkara Theme - category Lighthouse results](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/category-chrome-lighthouse.png)
 
 ## :chart_with_upwards_trend: Theme features comparison: Azkarra vs Magento Luma
 
@@ -81,8 +81,8 @@ Follow and wait here for more information and updates!
 
 ## [26.04.2023] Teaser - currently category page view:
 
-![Azkara Theme - product page teaser](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/teaser-category.gif)
+![Azkara Theme - product page teaser](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/teaser-category.gif)
 
 ## [25.02.2023] Teaser - currently product page view:
 
-![Azkara Theme - product page teaser](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/teaser.gif)
+![Azkara Theme - product page teaser](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/teaser.gif)
