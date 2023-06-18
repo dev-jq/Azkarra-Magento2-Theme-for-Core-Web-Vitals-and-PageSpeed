@@ -74,17 +74,18 @@ My plan assumes:
 
 ## :bell: About project files
 ### :star: PREMIUM ([on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme))
-- **JqDev_AzkarraTheme** module
-- **JqDev_WebVitals** module
-- **JqDev_CheckoutCustomization** module
-- **jq-dev/azzkarra** theme core
+- **JqDev_AzkarraTheme** - module
+- **JqDev_WebVitals** - module
+- **JqDev_CheckoutCustomization** - module
+- **jq-dev/azzkarra** - theme core files
 
 :loudspeaker: For FOLLOWERS: I plan to share a **discount code -50$ for the first 10 orders!**
 
 ### :white_check_mark: FREE (in this repo)
-- **jq-dev/my_azzkarra** child theme for your customizations
-- **pub/media** sample images
-- **/scripts** custom php scripts for Magento CLI
+- **jq-dev/my_azzkarra** - child theme for your customizations
+- **pub/media** - sample images
+- **pub/errors** - maintenance (errors page) template
+- **scripts/** - custom php scripts for Magento CLI
 
 ## :star: Interested? 
 *The more people interested, the more motivation for me for work* 
