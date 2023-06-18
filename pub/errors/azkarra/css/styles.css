@@ -1,0 +1,16 @@
+html, body, main {height: 100%;}
+html {margin: -20px 0;}
+body {background-color: #f7f7f7;}
+section {display: flex; justify-content: center; align-items: center; height: 100%;}
+article {text-align: center; width: auto; max-width: 500px; font-family: 'Montserrat','Helvetica Neue',Helvetica,Arial,sans-serif; padding: 1em;}
+article img {max-width: 100%; height: auto;}
+h1 {font-size: 2em; color: #252525;}
+h2 {font-size: 1.2em; color: #252525; font-weight: normal;}
+a, button {cursor: pointer;}
+@media screen and (max-width: 767px)  {
+    html { margin: 0;}
+    section {flex-direction: column-reverse;height: auto;}
+    article {max-width: 300px;}
+    h1 {font-size: 1.4em;}
+    .logo {max-width: 200px;}
+}
