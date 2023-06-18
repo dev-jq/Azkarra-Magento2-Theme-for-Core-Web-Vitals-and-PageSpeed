@@ -83,6 +83,7 @@ My plan assumes:
 
 ### :white_check_mark: FREE (in this repo)
 - **jq-dev/my_azzkarra** child theme for your customizations
+- **pub/media** sample images
 - **/scripts** custom php scripts for Magento CLI
 
 ## :star: Interested? 
