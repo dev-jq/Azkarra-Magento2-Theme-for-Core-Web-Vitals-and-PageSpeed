@@ -87,6 +87,8 @@ My plan assumes:
 - **pub/errors** - maintenance (errors page) template
 - **scripts/** - custom php scripts for Magento CLI
 
+:loudspeaker: See also custom FREE [Azkarra Backend Theme](https://github.com/dev-jq/M2_AzkarraBackendTheme)  
+
 ## :star: Interested? 
 *The more people interested, the more motivation for me for work* 
 
