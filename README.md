@@ -94,6 +94,10 @@ My plan assumes:
 
 Follow and wait here for more information and updates!
 
+## [01.07.2023] Teaser - currently home page view:
+
+![Azkara Theme - home page](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/teaser-home.jpg)
+
 ## [26.04.2023] Teaser - currently category page view:
 
 ![Azkara Theme - product page teaser](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/teaser-category.gif)
