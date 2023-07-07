@@ -1,19 +1,22 @@
-# SOON! Azkarra Theme optimized for Core Web Vitals and SEO
+# Azkarra Theme optimized for Core Web Vitals and SEO [1.0.0-beta1]
 
 ![Azkara Theme - cover](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/azkarra-cover.jpg)
 
-## :rocket: I'm working on theme named "Azkarra" - [what does it mean?](https://translate.google.com/?hl=pl&sl=eu&tl=en&text=Azkarra&op=translate)
+## :rocket: "Azkarra" - [what does it mean?](https://translate.google.com/?hl=pl&sl=eu&tl=en&text=Azkarra&op=translate)
 
-Get ready for the fastest and most optimized Magento 2.4.x theme - Azkarra! Based on Magento Luma, it's tailored for exceptional Core Web Vitals and SEO performance. Drawing from years of frontend expertise in Magento and other renowned skins like WeltPixel Pearl and Swissup Argento, Azkarra combines the best solutions into a single skin!
+Azkarra - the fastest and most optimized Magento 2.4.x theme! Based on the Magento Luma theme, it is tailored to deliver exceptional Core Web Vitals and SEO performance. Drawing from years of frontend expertise in Magento and other renowned themes like WeltPixel Pearl and Swissup Argento, Azkarra combines the best solutions into a single theme!
+
+## :boom: Azkarra DEMO
+
+**Azkara 1.0.0-beta1** Theme on Magento 2.4.5 with demo data **is now available!**
+
+:point_right: [CLICK HERE to see it in action](https://m10393.app-on-demand.net/) :point_left:
+
+Found a bug or have an idea to improve our template? Let me know! I value your feedback and am open to hearing your suggestions. Whether it's reporting an issue or sharing your thoughts on how we can enhance the template, I'm here to listen. Your input is highly appreciated as I strive to continuously improve and provide a better experience for our users. Get in touch and help me make our template even better!
 
 ## :alarm_clock: When and how?
 
-My plan assumes:
-
-:point_right: live demo with Magento sample data: **June 2023**
-
-:point_right: Initial release and purchase available: **July-August 2023** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme)
-
+:point_right: Initial release and purchase available: **July (beta version) & August (final) 2023** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme)
 
 ## :star: Why Azkarra?
 **This template is the best alternative to the basic Magento Luma template, which lacks many things.** Treat it as an excellent foundation for further developing more advanced 3rd party functionalities for your store!
@@ -68,9 +71,6 @@ My plan assumes:
 | footer brand logos (social media & services) | :heavy_check_mark: | :x: |
 | hover image in products list| :heavy_check_mark: | :x: |
 | checkout 'Order as: Business or Private person" option | :heavy_check_mark: | :x: |
-| ... | ... | ... |
-
-:hourglass_flowing_sand: still in progress...
 
 ## :bell: About project files
 ### :star: PREMIUM ([on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme))
