@@ -4,7 +4,7 @@
 
 ## :rocket: "Azkarra" - [what does it mean?](https://translate.google.com/?hl=pl&sl=eu&tl=en&text=Azkarra&op=translate)
 
-Azkarra - the fastest and most optimized Magento 2.4.x theme! Based on the Magento Luma theme, it is tailored to deliver exceptional Core Web Vitals and SEO performance. Drawing from years of frontend expertise in Magento and other renowned themes like WeltPixel Pearl and Swissup Argento, Azkarra combines the best solutions into a single theme!
+Azkarra - the fastest and most optimized Magento 2.4.x theme! Based on the Magento Luma theme, it is tailored to deliver exceptional Core Web Vitals and SEO performance. Drawing from years of frontend expertise in Magento and other renowned themes, Azkarra combines the best solutions into a single theme!
 
 ## :boom: Azkarra DEMO
 
@@ -16,7 +16,7 @@ Found a bug or have an idea to improve our template? Let me know! I value your f
 
 ## :alarm_clock: When and how?
 
-:point_right: Initial release and purchase available: **July (beta version) & August (final) 2023** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme)
+:point_right: Initial release and purchase will be available for the **beta version in July 2023 and for the final version at the end of August 2023** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme)
 
 ## :star: Why Azkarra?
 **This template is the best alternative to the basic Magento Luma template, which lacks many things.** Treat it as an excellent foundation for further developing more advanced 3rd party functionalities for your store!
@@ -33,13 +33,10 @@ Found a bug or have an idea to improve our template? Let me know! I value your f
 
 :point_right:  **One-time purchase without domain licenses!** Utilize Azkarra across multiple projects with ease!
 
-## :+1: Performance (production) results [04.06.2023]
-*Sample measurement results for mobile and desktop on the homepage page with demo data on external webserver in production mode (Google Pagespeed):*
+## :+1: Performance results
+*Sample measurement results for mobile and desktop with demo data on external webserver in production mode (Google Pagespeed):*
 ![Azkara Theme - homepage PageSpeed results](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/homepage-pagespeed.png)
 
-## :+1: Performance (developer) results [12.05.2023]
-*Sample measurement results for mobile and desktop on the category page with demo data in the developer environment (Chrome Lighthouse):*
-![Azkara Theme - category Lighthouse results](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/category-chrome-lighthouse.png)
 
 ## :chart_with_upwards_trend: Theme features comparison: Azkarra vs Magento Luma
 
@@ -69,7 +66,7 @@ Found a bug or have an idea to improve our template? Let me know! I value your f
 | size chart modal on configurable product page | :heavy_check_mark: | :x: |
 | footer columns with accordion on mobile | :heavy_check_mark: | :x: |
 | footer brand logos (social media & services) | :heavy_check_mark: | :x: |
-| hover image in products list| :heavy_check_mark: | :x: |
+| hover image in products list | :heavy_check_mark: | :x: |
 | checkout 'Order as: Business or Private person" option | :heavy_check_mark: | :x: |
 
 ## :bell: About project files
@@ -78,8 +75,9 @@ Found a bug or have an idea to improve our template? Let me know! I value your f
 - **JqDev_WebVitals** - module
 - **JqDev_CheckoutCustomization** - module
 - **jq-dev/azzkarra** - theme core files
+- **Azkarra_UserGuide.pdf** - ebook
 
-:loudspeaker: For FOLLOWERS: I plan to share a **discount code -50$ for the first 10 orders!**
+:loudspeaker: For my FOLLOWERS: use the discount code **4FIRST10** to enjoy a $50 discount (valid for the first 10 orders)!
 
 ### :white_check_mark: FREE (in this repo)
 - **jq-dev/my_azzkarra** - child theme for your customizations
@@ -89,19 +87,15 @@ Found a bug or have an idea to improve our template? Let me know! I value your f
 
 :loudspeaker: See also custom FREE [Azkarra Backend Theme](https://github.com/dev-jq/M2_AzkarraBackendTheme)  
 
-## :star: Interested? 
-*The more people interested, the more motivation for me for work* 
 
-Follow and wait here for more information and updates!
-
-## [01.07.2023] Teaser - currently home page view:
+## Home page view:
 
 ![Azkara Theme - home page](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/teaser-home.jpg)
 
-## [26.04.2023] Teaser - currently category page view:
+## Category page view:
 
-![Azkara Theme - product page teaser](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/teaser-category.gif)
+![Azkara Theme - product page](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/teaser-category.gif)
 
-## [25.02.2023] Teaser - currently product page view:
+## Product page view:
 
-![Azkara Theme - product page teaser](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/teaser.gif)
+![Azkara Theme - product page](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/teaser-product.gif)
