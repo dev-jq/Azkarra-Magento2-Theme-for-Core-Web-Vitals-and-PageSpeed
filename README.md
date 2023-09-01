@@ -8,9 +8,9 @@ Azkarra - the fastest and most optimized Magento 2.4.x theme! Based on the Magen
 
 ## :boom: Azkarra DEMO
 
-**Azkara 1.0.0-beta6** Theme on Magento 2.4.5 with demo data **is now available!**
+**Azkara 1.0.0-beta6** Theme on Magento 2.4.6 with demo data **is available!**
 
-:point_right: [CLICK HERE to see it in action](https://m10393.app-on-demand.net/) :point_left:
+:point_right: [CLICK HERE to see it in action](https://m10430.app-on-demand.net/) :point_left:
 
 Found a bug or have an idea to improve our template? Let me know! I value your feedback and am open to hearing your suggestions. Whether it's reporting an issue or sharing your thoughts on how we can enhance the template, I'm here to listen. Your input is highly appreciated as I strive to continuously improve and provide a better experience for our users. Get in touch and help me make our template even better!
 
