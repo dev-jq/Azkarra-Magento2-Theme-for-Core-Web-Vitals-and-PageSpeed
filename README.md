@@ -1,4 +1,4 @@
-# Azkarra Theme optimized for Core Web Vitals and SEO [1.0.0-beta6]
+# Azkarra Theme optimized for Core Web Vitals and SEO
 
 ![Azkara Theme - cover](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/azkarra-cover.jpg)
 
@@ -8,15 +8,26 @@ Azkarra - the fastest and most optimized Magento 2.4.x theme! Based on the Magen
 
 ## :boom: Azkarra DEMO
 
-**Azkara 1.0.0-beta6** Theme on Magento 2.4.6 with demo data **is available!**
+**Azkara** Theme on Magento 2.4.6 with demo data **is available!**
 
 :point_right: [CLICK HERE to see it in action](https://m10430.app-on-demand.net/) :point_left:
 
 Found a bug or have an idea to improve our template? Let me know! I value your feedback and am open to hearing your suggestions. Whether it's reporting an issue or sharing your thoughts on how we can enhance the template, I'm here to listen. Your input is highly appreciated as I strive to continuously improve and provide a better experience for our users. Get in touch and help me make our template even better!
 
-## :alarm_clock: When and how?
+## How to?
 
-:point_right: Initial release and purchase will be available for the **beta version in July 2023 and for the final version at the end of August 2023** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme)
+:point_right: **
+**Core package files and documentation are premium available** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme)
+Demo data and child theme for our customizations and example modifications are available in this repo for FREE!
+
+## System Requirements
+
+Theme Azkarra 1.0.0 was developed and tested on Magento versions:
+- 2.4.6 (with PHP 8.1) 
+- 2.4.5 (with PHP 7.4)
+- 2.4.4 (with PHP 8.1)
+
+You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I can help you further, write a message!
 
 ## :star: Why Azkarra?
 **This template is the best alternative to the basic Magento Luma template, which lacks many things.** Treat it as an excellent foundation for further developing more advanced 3rd party functionalities for your store!
