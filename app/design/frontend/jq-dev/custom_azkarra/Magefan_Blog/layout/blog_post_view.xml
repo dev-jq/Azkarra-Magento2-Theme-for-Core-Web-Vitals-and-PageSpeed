@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceBlock name="page.main.title" remove="true" />
+        <referenceContainer name="content">
+            <container name="blog.post.after" as="blog.post.after" label="Blog After Post content Container" after="blog.post.bottom" />
+        </referenceContainer>
+        <move element="blog.post.relatedposts" destination="blog.post.after" before="-" />
+        <move element="blog.post.relatedproducts" destination="blog.post.after" after="blog.post.relatedposts" />
+    </body>
+</page>

@@ -1,0 +1,39 @@
+//media all (styles-m.css)
+& when (@media-common = true) {
+
+  .blog-widget-recent {
+    .post-holder {
+      padding: 0 8px;
+    }
+    .post-title {
+      padding: 0;
+      margin-top: 16px;
+      & > a {
+        display: block;
+        font-weight: bold;
+        letter-spacing: 3px;
+        margin: 16px 0;
+        font-size: 14px;
+        height: 75px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        text-transform: uppercase;
+        margin: 0;
+      }
+    }
+    .post-date {
+      margin-top: 16px;
+    }
+  }
+
+}
+
+// minimum 768px
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__l) {
+  .blog-widget-recent {
+    .post-list {
+      margin-left: -8px;
+      margin-right: -8px;
+    }
+  }
+}

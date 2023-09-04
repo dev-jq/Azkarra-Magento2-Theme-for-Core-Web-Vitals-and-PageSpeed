@@ -1,0 +1,153 @@
+@checkout-wrapper__margin: @indent__base;
+@checkout-wrapper__columns: 16; // azkarra = 8; luma = 16
+
+@checkout-sidebar__columns: 8; // azkarra = 4; luma = 8
+@checkout-sidebar__margin__xl: 46px;
+@checkout-sidebar-shipping-information-edit-icon__color: blue;
+@checkout-sidebar-shipping-information-edit-icon__content: @icon-settings;
+@checkout-sidebar-shipping-information-edit-icon__font-size: 28px;
+@checkout-sidebar-shipping-information-edit-icon__line-height: 28px;
+@checkout-sidebar-shipping-information-edit-icon__top: 2px;
+@checkout-sidebar-shipping-information-edit-icon__hover__color: @primary__color;
+
+
+
+@checkout-step-title__border: @border-width__base solid @color-gray;
+@checkout-step-title__font-size: 26px;
+@checkout-step-title__font-weight: @font-weight__light;
+@checkout-step-title__padding: @indent__s;
+@checkout-step-title-mobile__font-size: 18px;
+@checkout-payment-method-title__border: @checkout-shipping-method__border;
+@checkout-payment-method-title__padding: @checkout-shipping-method__padding;
+@checkout-payment-method-title-mobile__padding: 15px;
+@checkout-payment-method-content__padding__xl: 22px;
+@checkout-billing-address-details__line-height: 27px;
+@checkout-billing-address-details__padding: 0 0 0 23px;
+@checkout-billing-address-form__max-width: @checkout-shipping-address__max-width;
+@checkout-payment-option-title__border: @checkout-payment-method-title__border;
+@checkout-payment-option-title__color: @link__color;
+@checkout-payment-option-title__padding: @checkout-payment-method-title__padding;
+@checkout-payment-option-title-mobile__padding: @checkout-payment-method-title-mobile__padding;
+@checkout-payment-option-title-icon__font-size: 32px;
+@checkout-payment-option-title-icon__line-height: 16px;
+@checkout-payment-option-title-icon__margin: 0;
+@checkout-payment-option-title-icon__color: red;
+@checkout-payment-option-title-icon__hover__color: @primary__color;
+@checkout-payment-option-content__padding__xl: @checkout-payment-method-content__padding__xl;
+@checkout-field-validation__border-color: @form-element-validation__border-error;
+@checkout-modal-popup__width: 800px;
+@checkout-summary__background-color: @color-white;
+@checkout-summary__padding: 22px @indent__l;
+@checkout-summary-title__margin: @indent__s;
+@checkout-summary-mark-value__color: @color-gray;
+@checkout-summary-items__max-height: 370px;
+@checkout-summary-items__padding: 15px;
+@checkout-progress-bar__font-size: 14px;
+@checkout-progress-bar__font-weight: @font-weight__light;
+@checkout-progress-bar__margin: @indent__base;
+@checkout-progress-bar-item__background-color: @border-color__base;
+@checkout-progress-bar-item__border-color: transparent;
+@checkout-progress-bar-item__border-radius: 0; // old: 6px;
+@checkout-progress-bar-item__color: @color-white;
+@checkout-progress-bar-item__margin: @indent__s;
+@checkout-progress-bar-item__width: 50%; // old: 33.33%
+@checkout-progress-bar-item__transition: false;
+@checkout-progress-bar-item__active__background-color: @active__color;
+@checkout-progress-bar-item__active__color: @active__color;
+@checkout-progress-bar-item__active__font-weight: @font-weight__bold;
+@checkout-progress-bar-item__complete__color: @link__color;
+@checkout-progress-bar-item__hover__background-color: @active__color;
+@checkout-progress-bar-item-element__height: @checkout-progress-bar-item-element__width;
+@checkout-progress-bar-item-element__width: 38px;
+@checkout-progress-bar-item-element-inner__background-color: @page__background-color;
+@checkout-progress-bar-item-element-inner__border-color: @border-color__base;
+@checkout-progress-bar-item-element-inner__color: @checkout-progress-bar-item__color;
+@checkout-progress-bar-item-element-inner__height: @checkout-progress-bar-item-element-inner__width;
+@checkout-progress-bar-item-element-inner__width: @checkout-progress-bar-item-element__width - (@checkout-progress-bar-item-element-outer-radius__width * 2);
+@checkout-progress-bar-item-element-inner__active__content: @icon-checkmark;
+@checkout-progress-bar-item-element-inner__active__font-size: 28px;
+@checkout-progress-bar-item-element-inner__active__line-height: 1;
+@checkout-progress-bar-item-element-inner__active__border-color: @active__color;
+@checkout-progress-bar-item-element-outer-radius__width: 6px;
+@checkout-progress-bar-item__font-color: @primary__color;
+@checkout-shipping-policy-action__color: @link__color;
+@checkout-shipping-policy-tooltip__width: 420px;
+@checkout-shipping-policy-tooltip-mobile__width: 300px;
+@checkout-shipping-address__max-width: 600px;
+@checkout-shipping-address__margin-top: 28px;
+@checkout-shipping-item-icon__background-color: @checkout-shipping-item__active__border-color;
+@checkout-shipping-item-icon__color: @color-white;
+@checkout-shipping-item-icon__content: @icon-checkmark;
+@checkout-shipping-item__border: 2px solid transparent;
+@checkout-shipping-item__line-height: 30px;
+@checkout-shipping-item__margin: 0 0 @indent__base;
+@checkout-shipping-item__padding: @indent__base (@indent__l + 5px) @indent__base @indent__base;
+@checkout-shipping-item__transition: .3s border-color;
+@checkout-shipping-item__width: 100%/3;
+@checkout-shipping-item-tablet__width: 100%/2;
+@checkout-shipping-item-mobile__width: 100%;
+@checkout-shipping-item__active__border-color: @active__color;
+@checkout-shipping-item-icon__selected__height: 27px;
+@checkout-shipping-item-icon__selected__width: 29px;
+@checkout-shipping-item-mobile__padding: 0 0 15px;
+@checkout-shipping-item-mobile__margin: @checkout-shipping-item-mobile__padding;
+@checkout-shipping-item-mobile__active__padding: 15px (@indent__l + 5px) 15px 18px;
+@checkout-shipping-item-before__border-color: @color-gray;
+@checkout-shipping-item-before__height: calc(~'100% - 20px');
+@checkout-shipping-method__border: @checkout-step-title__border;
+@checkout-shipping-method__padding: @indent__base;
+@checkout-sidebar-shipping-information__padding: @indent__l;
+@checkout-sidebar-shipping-information__line-height: @checkout-billing-address-details__line-height;@checkout-sidebar__margin: @indent__base;
+
+
+
+@checkout-tooltip__hover__z-index: @tooltip__z-index;
+@checkout-tooltip-icon-arrow__font-size: 10px;
+@checkout-tooltip-icon-arrow__left: -( @checkout-tooltip-content__padding + @checkout-tooltip-icon-arrow__font-size - @checkout-tooltip-content__border-width);
+@checkout-tooltip-icon__color: @primary__color;
+@checkout-tooltip-icon__content: @icon-help;
+@checkout-tooltip-icon__font-size: 24px;
+@checkout-tooltip-icon__hover__color: @color-black;
+@checkout-tooltip-content__background-color: @color-gray-light;
+@checkout-tooltip-content__border-color: @color-gray;
+@checkout-tooltip-content__border-width: 1px;
+@checkout-tooltip-content__font-size: @font-size__base;
+@checkout-tooltip-content__padding: 12px;
+@checkout-tooltip-content__width: 270px;
+@checkout-tooltip-content__active__border-color: darken(@checkout-tooltip-content__border-color, 20%);
+@checkout-tooltip-content-mobile-popup__width: 200px;
+@checkout-tooltip-content-mobile__right: -(@indent__s);
+@checkout-tooltip-content-mobile__top: 30px + @checkout-tooltip-icon-arrow__font-size;
+
+
+
+
+@checkout-tooltip-icon__font-size: 20px;
+@checkout-tooltip-content__background-color: @color-gray-light;
+@checkout-tooltip-content__border-color: transparent;
+@checkout-tooltip-content__border-width: 1px;
+@checkout-tooltip-content__font-size: @font-size__base;
+@checkout-tooltip-content__padding: 12px;
+@checkout-tooltip-content__width: 270px;
+@checkout-tooltip-content__active__border-color: darken(@checkout-tooltip-content__border-color, 20%);
+@checkout-tooltip-content-mobile-popup__width: 200px;
+@checkout-tooltip-content-mobile__right: -(@indent__s);
+@checkout-tooltip-content-mobile__top: 30px + @checkout-tooltip-icon-arrow__font-size;
+@checkout-step-content-mobile__background: @color-white;
+@checkout-step-content-mobile__margin: @indent__m;
+@checkout-step-content-mobile__margin-s: @indent__s;
+
+@block-auth__dropdown__padding: @margin__base;
+@block-auth__dropdown__background-color: @color-gray-light;
+@block-auth__or-label__size: 36px;
+@block-auth__width: 0;
+@block-auth__border: 1px solid @border-color__base;
+
+@minicart-icons-color: @color-black;
+@minicart-icons-color-hover: @color-white;
+@minicart__border-color: @border-color__base;
+@minicart__padding-horizontal: @indent__base;
+@minicart-qty__height: 16px;
+@cart-price-color: @primary__color;
+@cart-item-cell-padding-top: @indent__xs;
+@mobile-cart-padding: @indent__s;

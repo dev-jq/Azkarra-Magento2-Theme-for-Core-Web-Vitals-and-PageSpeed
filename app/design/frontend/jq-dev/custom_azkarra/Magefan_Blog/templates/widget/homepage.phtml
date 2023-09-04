@@ -1,0 +1,99 @@
+<?php
+/**
+ * Copyright © Magefan (support@magefan.com). All rights reserved.
+ * Please visit Magefan.com for license details (https://magefan.com/end-user-license-agreement).
+ *
+ * Glory to Ukraine! Glory to the heroes!
+ */
+?>
+<?php
+/**
+ * Blog recent posts widget
+ *
+ * @var $block \Magefan\Blog\Block\Widget\Recent
+ */
+?>
+
+<?php
+$_postCollection = $block->getPostCollection();
+?>
+<?php if ($_postCollection->count()) { ?>
+    <div class="post-list-wrapper blog-widget-recent">
+        <h3 class="title"><?= $block->escapeHtml($block->getTitle()) ?></h3>
+        <ul class="post-list slider clearfix">
+            <?php foreach ($_postCollection as $_post) { ?>
+                <?php
+                $_postUrl = $block->escapeUrl($_post->getPostUrl());
+                $_postName = $block->escapeHtml($_post->getTitle());
+                ?>
+                <li class="slick-slide col-xs-12 col-sm-6 col-md-4 post-holder post-holder-<?= (int)$_post->getId() ?>">
+                    <div class="post-content">
+                        <div class="post-description clearfix">
+                            <?php $featuredImage = $_post->getFeaturedListImage() ?: $_post->getFeaturedImage(); ?>
+                            <?php if ($featuredImage) { ?>
+                                <?php
+                                $featuredImgAlt = $_post->getData('featured_list_img_alt') ?: $_post->getData('featured_img_alt');
+                                if (!$featuredImgAlt) {
+                                    $featuredImgAlt = $_postName;
+                                }
+                                ?>
+                                <div class="post-ftimg-hld">
+                                    <a href="<?= /*@noEscape*/ $_postUrl ?>" title="<?= /*@noEscape*/ $_postName ?>">
+                                        <?php $image_info = @getimagesize($block->escapeHtml($featuredImage)); ?>
+                                        <img data-src="<?= $block->escapeHtml($featuredImage) ?>" class="lazyload"
+                                             alt="<?= $block->escapeHtml($featuredImgAlt) ?>" <?= $image_info[3]; ?> />
+                                    </a>
+                                </div>
+                            <?php } ?>
+                        </div>
+                    </div>
+
+                    <?php if ($_post->isPublishDateEnabled()) { ?>
+                        <div class="post-date">
+                            <?= $block->escapeHtml($_post->getPublishDate('d-m-Y')) ?>
+                        </div>
+                    <?php } ?>
+
+                    <div class="post-title">
+                        <a class="post-item-link"
+                           href="<?= /*@noEscape*/ $_postUrl ?>">
+                            <?= /*@noEscape*/ $_postName ?>
+                        </a>
+                    </div>
+                </li>
+            <?php } ?>
+        </ul>
+    </div>
+    <script type="text/lazy">
+        require(["jquery", "slick"], function ($, slick) {
+            $('.blog-widget-recent .slider').slick({
+                "slidesToShow": 3,
+                "slidesToScroll": 1,
+                "arrows": true,
+                "dots": true,
+                "infinite": false,
+                "centerMode": false,
+                "responsive": [
+                    {
+                        "breakpoint": 1024,
+                        "settings": {
+                            "slidesToShow": 2
+                        }
+                    },
+                    {
+                        "breakpoint": 768,
+                        "settings": {
+                            "slidesToShow": 2
+                        }
+                    },
+                    {
+                        "breakpoint": 480,
+                        "settings": {
+                            "slidesToShow": 1
+                        }
+                    }
+                ]
+            });
+        });
+    </script>
+<?php } ?>

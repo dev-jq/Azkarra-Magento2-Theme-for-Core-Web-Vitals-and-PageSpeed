@@ -1,0 +1,40 @@
+<?php
+/**
+ * Copyright © Magefan (support@magefan.com). All rights reserved.
+ * Please visit Magefan.com for license details (https://magefan.com/end-user-license-agreement).
+ *
+ * Glory to Ukraine! Glory to the heroes!
+ */
+?>
+<?php
+/**
+ * Blog sidebar categories template
+ *
+ * @var $block \Magefan\Blog\Block\Sidebar\Categories
+ */
+?>
+
+<?php $items = $block->getGroupedChilds(); ?>
+
+<?php if (count($items)): ?>
+    <div class="widget block block-categories" data-bind="scope: 'categories'">
+        <?php /*
+        <div class="block-title">
+            <strong><?= $block->escapeHtml(__('Categories')) ?></strong>
+        </div>
+        */ ?>
+        <div class="menu-categories">
+            <?php foreach ($items as $item): ?>
+                <a title="<?= $block->escapeHtml($item->getTitle()) ?>" class="cat-link" href="<?= $block->escapeUrl($item->getCategoryUrl()) ?>">
+                    <?= $block->escapeHtml($item->getTitle()) ?>
+                    <?php if ($block->showPostsCount()): ?>
+                        <span class="cat-count">
+                            (<?= $block->escapeHtml($item->getPostsCount()) ?>)
+                        </span>
+                    <?php endif; ?>
+                </a>
+            <?php endforeach; ?>
+        </div>
+    </div>
+<?php endif; ?>
+

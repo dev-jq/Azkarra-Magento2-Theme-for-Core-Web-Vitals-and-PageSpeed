@@ -1,0 +1,28 @@
+// /**
+//  Customizations for your store
+//  */
+
+//media all (styles-m.css)
+& when (@media-common = true) {
+
+}
+
+// only mobile: maximum 767px
+.media-width(@extremum, @break) when (@extremum = 'max') and (@break = @screen__m) {
+    
+}
+
+// minimum 768px
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__m) {
+    
+}
+
+// minimum 1024px
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__l) {
+
+}
+
+// minimum 1440px
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__xl) {
+
+}

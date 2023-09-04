@@ -1,0 +1,60 @@
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+
+    </head>
+    <body>
+        <referenceBlock name="sale.reorder.sidebar" remove="true"/>
+        <referenceBlock name="skip_to_content.target" remove="true"/>
+        <referenceBlock name="skip_to_content" remove="true"/>
+        <referenceBlock name="footer_links" remove="true"/>
+
+        <referenceContainer name="page.wrapper">
+            <container name="header.container.placeholder" htmlTag="div" htmlClass="header-placeholder" after="header.container">
+                <block class="Magento\Framework\View\Element\Template" name="sticky.header" template="Magento_Theme::html/sticky-header.phtml" />
+            </container>
+        </referenceContainer>
+
+        <referenceBlock name="header">
+            <arguments>
+                <argument name="show_part" xsi:type="string">other</argument> <!-- hide 'welcome' message -->
+            </arguments>
+        </referenceBlock>
+
+        <referenceContainer name="header-wrapper">
+            <container name="header.actions.container" htmlTag="div" htmlClass="block-header-actions">
+                <block class="Magento\Framework\View\Element\Template" name="nav.toggle" template="Magento_Theme::html/header/nav-toggle.phtml" />
+            </container>
+        </referenceContainer>
+
+        <referenceContainer name="header.container">
+            <block class="Magento\Framework\View\Element\Template" name="fade.layer" template="Magento_Theme::html/fade-layer.phtml"/>
+        </referenceContainer>
+
+        <referenceContainer name="footer-container">
+            <container name="pre-footer" as="pre-footer" label="Before Footer" htmlTag="div" htmlClass="pre-footer" before="footer" />
+        </referenceContainer>
+
+        <referenceContainer name="footer">
+            <block class="Magento\Framework\View\Element\Template" name="footer.cms.content" template="Magento_Theme::html/footer/content.phtml" />
+        </referenceContainer>
+
+        <referenceContainer name="before.body.end">
+            <block class="Magento\Framework\View\Element\Template" name="back.to.top" template="Magento_Theme::html/back-to-top.phtml" />
+            <block class="Magento\Framework\View\Element\Template" name="pinned.element.onscroll" template="Magento_Theme::html/pinned-element.phtml" />
+            <block class="Magento\Framework\View\Element\Template" name="footer.custom.scripts" template="Magento_Theme::html/footer/scripts.phtml" />
+        </referenceContainer>
+
+
+        <!-- move navigaton menu to to sticky header.container: -->
+        <move element="navigation.sections" destination="header.container" after="header-wrapper" />
+
+        <!-- <move element="top.search" destination="header.actions.container" /> -->
+        <move element="customer" destination="header.actions.container" before="-" />
+        <move element="minicart" destination="header.actions.container" after="-" />
+        <move element="wish-list-link" destination="header.actions.container" before="minicart" />
+        <move element="nav.toggle" destination="header.actions.container" after="minicart" />
+
+        <move element="copyright" destination="footer" after="footer.cms.content" />
+
+    </body>
+</page>

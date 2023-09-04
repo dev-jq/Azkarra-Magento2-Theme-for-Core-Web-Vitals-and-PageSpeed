@@ -1,0 +1,80 @@
+// /**
+//  * Copyright © Magento, Inc. All rights reserved.
+//  * See COPYING.txt for license details.
+//  */
+
+//
+//  Color variables
+//  _____________________________________________
+
+@color-white: #fff;
+@color-black: #252525; // default: #000
+@color-black__hover: lighten(@color-black, 25%);
+@color-transparent: transparent;
+
+@color-brand-primary: #1979c3;
+@color-brand-primary__hover: #006bb4;
+@color-brand-secondary: #4a4a4a;
+@color-brand-secondary__hover: darken(@color-brand-secondary, 25%);
+
+@color-gray: #d0d0d0;
+@color-gray-light: #f7f7f7;
+@color-gray-light2: #e6e6e6;
+@color-gray-dark: #c0c0c0;
+@color-gray-dark2: #898989;
+
+@color-red: #dc3545;
+@color-red-light: lighten(@color-red, 25%);
+@color-red-dark: #b02a37;
+
+@color-orange: #f4b058;
+@color-orange-light: lighten(@color-orange, 25%);
+@color-orange-dark: darken(@color-orange, 10%);
+
+@color-yellow: #fbd151;
+@color-yellow-light: lighten(@color-yellow, 25%);
+@color-yellow-dark: darken(@color-yellow, 25%);
+
+@color-green: #019875;
+@color-green-light: lighten(@color-green, 25%);
+@color-green-dark: darken(@color-green, 5%);
+
+@color-blue: #17a2b8 ;
+@color-blue-light: lighten(@color-blue, 25%);
+@color-blue-dark: #128293;
+
+@color-gold: #aa8b5d;
+@color-purple: #b961bb;
+
+
+@color-sale: @color-red;
+@color-outlet: @color-red;
+@color-new: @color-green;
+@color-bestseller: @color-gold;
+
+
+
+//
+//  Color nesting
+//  ---------------------------------------------
+
+@theme__color__primary: @color-brand-primary;
+@theme__color__primary-alt: @color-brand-primary__hover;
+@theme__color__secondary: @color-brand-secondary;
+
+@primary__color: @color-brand-primary;
+@primary__color__hover: @color-brand-primary__hover;
+@primary__color__dark: @color-brand-primary;
+@primary__color__darker: @color-brand-primary;
+@primary__color__light: @color-brand-primary__hover;
+@primary__color__lighter: @color-brand-primary__hover;
+
+@secondary__color: @color-brand-secondary;
+
+@page__background-color: @color-white;
+@panel__background-color: @color-gray-light;
+
+@active__color: @theme__color__primary;
+@error__color: @color-red;
+
+@border-color__base: @color-gray-light2;

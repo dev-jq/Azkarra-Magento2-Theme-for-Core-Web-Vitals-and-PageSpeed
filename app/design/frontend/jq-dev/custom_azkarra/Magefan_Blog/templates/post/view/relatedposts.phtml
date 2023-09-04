@@ -1,0 +1,71 @@
+<?php
+/**
+ * Copyright © Magefan (support@magefan.com). All rights reserved.
+ * Please visit Magefan.com for license details (https://magefan.com/end-user-license-agreement).
+ *
+ * Glory to Ukraine! Glory to the heroes!
+ */
+?>
+<?php
+/**
+ * Blog related posts template
+ *
+ * @var $block \Magefan\Blog\Block\Post\View\RelatedPosts
+ * @var $block \Magefan\Blog\Block\Catalog\Product\RelatedPosts
+ */
+?>
+
+<?php if ($block->displayPosts()) { ?>
+    <?php $postCollection = $block->getPostCollection(); ?>
+    <?php if (count($postCollection)) { ?>
+        <div class="mfblog-related-posts-block block related">
+            <?php if (!$block->getHideTitle()) { ?>
+                <div class="block-title title">
+                    <h3 id="block-relatedposts-heading" role="heading" aria-level="2">
+                        <?= $block->escapeHtml(__('Related Posts')) ?>
+                    </h3>
+                </div>
+            <?php } ?>
+            <ol class="post-list">
+                <?php foreach ($postCollection as $post) { ?>
+                    <li class="post-holder">
+
+                        <?php
+                            $featuredImage = $post->getFeaturedListImage() ?: $post->getFeaturedImage();
+                            $_post = $block->getPost();
+                            $_postUrl = $block->escapeUrl($_post->getPostUrl());
+                            $_postName = $block->escapeHtml($_post->getTitle());
+                        ?>
+                        <?php if ($featuredImage) { ?>
+                            <?php
+                            $featuredImgAlt = $_post->getData('featured_list_img_alt') ?: $_post->getData('featured_img_alt');
+                            if (!$featuredImgAlt) {
+                                $featuredImgAlt = $_postName;
+                            }
+                            ?>
+                            <div class="post-ftimg-hld">
+                                <a href="<?= /*@noEscape*/ $_postUrl ?>"
+                                   title="<?= /*@noEscape*/ $_postName ?>">
+                                    <img src="<?= $block->escapeUrl($featuredImage) ?>"
+                                         alt="<?= $block->escapeHtml($featuredImgAlt) ?>" />
+                                </a>
+                            </div>
+                        <?php } ?>
+
+                        <div class="post-info">
+                            <div class="post-date">
+                                <?= $block->escapeHtml($_post->getPublishDate('d-m-Y')) ?>
+                            </div>
+                            <h2 class="post-title">
+                                <a class="post-item-link"
+                                   href="<?= /*@noEscape*/ $_postUrl ?>">
+                                    <?= /*@noEscape*/ $_postName ?>
+                                </a>
+                            </h2>
+                        </div>
+                    </li>
+                <?php } ?>
+            </ol>
+        </div>
+    <?php } ?>
+<?php } ?>
