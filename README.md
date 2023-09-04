@@ -2,10 +2,9 @@
 
 ![Azkara Theme - cover](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/azkarra-cover.jpg)
 
-## :rocket: "Azkarra" - [what does it mean?](https://translate.google.com/?hl=pl&sl=eu&tl=en&text=Azkarra&op=translate)
+## :rocket: "Azkarra"
 
-Azkarra - the fastest and most optimized Magento 2.4.x theme! Based on the Magento Luma theme, it is tailored to deliver exceptional Core Web Vitals and SEO performance. Drawing from years of frontend expertise in Magento and other renowned themes, Azkarra combines the best solutions into a single theme!
-
+Azkarra - the fastest and most optimized Magento 2.4.x native theme! Based on the Magento Luma theme, it is tailored to deliver exceptional Core Web Vitals and SEO performance. Drawing from years of frontend expertise in Magento.
 ## :boom: Azkarra DEMO
 
 **Azkara** Theme on Magento 2.4.6 with demo data **is available!**
@@ -14,7 +13,7 @@ Azkarra - the fastest and most optimized Magento 2.4.x theme! Based on the Magen
 
 Found a bug or have an idea to improve our template? Let me know! I value your feedback and am open to hearing your suggestions. Whether it's reporting an issue or sharing your thoughts on how we can enhance the template, I'm here to listen. Your input is highly appreciated as I strive to continuously improve and provide a better experience for our users. Get in touch and help me make our template even better!
 
-## How to?
+## How to get?
 
 :point_right:
 **Core package files and documentation are premium available** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme)
@@ -93,9 +92,10 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 
 ### :white_check_mark: FREE (in this repo)
 - **jq-dev/my_azzkarra** - child theme for your customizations
-- **pub/media** - sample images
+- **jq-dev/custom_azzkarra** - example theme with customizations (colors, fonts, etc) and other 3rd party modules integration
+- **pub/media** - sample images for Azkarra demo
 - **pub/errors** - maintenance (errors page) template
-- **scripts/** - custom php scripts for Magento CLI
+- **scripts/** - custom php scripts for Magento CLI (demo data installer, mass action 'image hover' assign)
 
 :loudspeaker: See also custom FREE [Azkarra Backend Theme](https://github.com/dev-jq/M2_AzkarraBackendTheme)  
 
