@@ -16,8 +16,9 @@ Found a bug or have an idea to improve our template? Let me know! I value your f
 
 ## How to?
 
-:point_right: **
+:point_right:
 **Core package files and documentation are premium available** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme)
+
 Demo data and child theme for our customizations and example modifications are available in this repo for FREE!
 
 ## System Requirements
