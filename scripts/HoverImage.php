@@ -16,7 +16,7 @@ foreach ($productCollection as $product) {
 
     if (count($galleryEntries) > 1) {
         $secondEntry = $galleryEntries[1];
-        $product->setData('hover_image', $secondEntry->getFile()); //  setting the second image from the product's media gallery as the hover_image
+        $product->setData('hover_image', $secondEntry->getFile()); // setting the second image from the product's media gallery as the hover_image
         $product->save();
         echo "Hover image set for product ID: " . $productId . ", ";
     }
