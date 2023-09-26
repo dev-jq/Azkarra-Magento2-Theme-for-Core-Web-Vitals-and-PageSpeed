@@ -22,7 +22,7 @@ Demo data and child theme for our customizations and example modifications are a
 
 ## System Requirements
 
-Theme Azkarra 1.0.0 was developed and tested on Magento versions:
+Theme Azkarra 1.0.1 was developed and tested on Magento versions:
 - 2.4.6 (with PHP 8.1) 
 - 2.4.5 (with PHP 7.4)
 - 2.4.4 (with PHP 8.1)
@@ -79,6 +79,8 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 | footer brand logos (social media & services) | :heavy_check_mark: | :x: |
 | hover image in products list | :heavy_check_mark: | :x: |
 | checkout 'Order as: Business or Private person" option | :heavy_check_mark: | :x: |
+| qty switcher in cart and minicart | :heavy_check_mark: | :x: |
+| Omnibus EU Directive (price) on product page | :heavy_check_mark: | :x: |
 
 ## :bell: About project files
 ### :star: PREMIUM ([on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme))
@@ -99,6 +101,19 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 
 :loudspeaker: See also custom FREE [Azkarra Backend Theme](https://github.com/dev-jq/M2_AzkarraBackendTheme)  
 
+##  CHANGELOG
+### Azkarra v.1.0.1 (LATEST) - [26.09.2023]
+- Updated user guide (pdf)
+
+Feature:
+- Qty switcher in cart and minicart
+- Omnibus EU Directive on product page. Display label "The lowest price of 30 days before the introduction of the discount"
+
+Bugfix:
+- Styles improvements
+
+### Azkarra v.1.0.0 - [05.08.2023]
+- Magento 2.4.6 compatibility
 
 ## Home page view:
 
