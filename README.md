@@ -81,6 +81,8 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 | checkout 'Order as: Business or Private person" option | :heavy_check_mark: | :x: |
 | qty switcher in cart and minicart | :heavy_check_mark: | :x: |
 | Omnibus EU Directive (price) on product page | :heavy_check_mark: | :x: |
+| Widget CMS static block custom template (with X close button) | :heavy_check_mark: | :x: |
+| Order status color in admin grid | :heavy_check_mark: | :x: |
 
 ## :bell: About project files
 ### :star: PREMIUM ([on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme))
@@ -102,7 +104,25 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 :loudspeaker: See also custom FREE [Azkarra Backend Theme](https://github.com/dev-jq/M2_AzkarraBackendTheme)  
 
 ##  CHANGELOG
-### Azkarra v.1.0.1 (LATEST) - [26.09.2023]
+
+### Azkarra v.1.0.2 (LATEST) - [22.10.2023]
+- Updated user guide (pdf)
+
+Feature:
+- Order status color in admin grid
+- Widget CMS static block custom template (with X close button)
+
+Improvements:
+- Changed breadcrumbs navigation on mobile
+- Sticky header script improvement
+  
+Bugfix:
+- Product page qty switcher
+- System messages loaded without waiting for interaction
+- Appearance of the print page
+- Adjustment (qty switcher) when module JqDev_CheckoutCustomization disabled
+  
+### Azkarra v.1.0.1 - [26.09.2023]
 - Updated user guide (pdf)
 
 Feature:
