@@ -1,6 +1,6 @@
 # Azkarra Theme optimized for Core Web Vitals and SEO
 
-![Azkara Theme - cover](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/azkarra-cover.jpg)
+![Azkara Theme - cover](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/azkarra-cover.png)
 
 ## :rocket: "Azkarra"
 
