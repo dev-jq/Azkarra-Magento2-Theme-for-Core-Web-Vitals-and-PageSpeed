@@ -92,7 +92,6 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 - **jq-dev/azzkarra** - theme core files
 - **Azkarra_UserGuide.pdf** - ebook
 
-:loudspeaker: For my FOLLOWERS: use the discount code **4FIRST10** to enjoy a $50 discount (valid for the first 10 orders)!
 
 ### :white_check_mark: FREE (in this repo)
 - **jq-dev/my_azzkarra** - child theme for your customizations
