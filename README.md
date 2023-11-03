@@ -68,6 +68,9 @@ Found a bug or have an idea to improve our template? Let me know! I value your f
 
 :point_right:  **One-time purchase without domain licenses!** Utilize Azkarra across multiple projects with ease!
 
+## :speech_balloon: Customer reviews
+![Customer review-Stattys](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/benjamin-stattys_long.png)
+
 ## How to get?
 
 :point_right:
