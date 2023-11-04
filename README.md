@@ -2,6 +2,31 @@
 
 ![Azkara Theme - cover](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/azkarra-cover.png)
 
+
+## Contents
+- [About Azkarra](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#rocket-about-azkarra)
+
+- [Azkara DEMO](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#boom-azkarra-demo)
+
+- [Performance results](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#1-performance-results)
+
+- [Features comparison: Azkarra vs Magento Luma](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#chart_with_upwards_trend-features-comparison-azkarra-vs-magento-luma)
+
+- [Price: 149$ - Why to buy Azkarra?](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#star-why-azkarra)
+
+- [Customer reviews](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#speech_balloon-customer-reviews)
+
+- [How to get?](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#how-to-get)
+
+- [System Requirements](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#system-requirements)
+
+- [About project files](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#bell-about-project-files)
+
+- [CHANGELOG](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
+
+- [Screens: home page, category page and product page](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#home-page-view)
+
+
 ## :rocket: About "Azkarra"
 
 Azkarra - the fastest and most optimized Magento 2.4.x native theme! Based on the Magento Luma theme, it is tailored to deliver exceptional Core Web Vitals and SEO performance. Drawing from years of frontend expertise in Magento.
