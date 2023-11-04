@@ -12,11 +12,11 @@
 
 - [Features comparison: Azkarra vs Magento Luma](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#chart_with_upwards_trend-features-comparison-azkarra-vs-magento-luma)
 
-- [Price: 149$ - Why to buy Azkarra?](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#star-why-azkarra)
+- [Why to buy Azkarra?](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#star-why-azkarra)
 
 - [Customer reviews](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#speech_balloon-customer-reviews)
 
-- [How to get?](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#how-to-get)
+- [Price: 149$ - How to get?](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#how-to-get)
 
 - [System Requirements](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#system-requirements)
 
