@@ -22,7 +22,7 @@
 
 - [About project files](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#bell-about-project-files)
 
-- [CHANGELOG](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
+- [CHANGELOG & LATEST VERSION: v1.0.3 (06.11.2023)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
 
 - [Screens: home page, category page and product page](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#home-page-view)
 
@@ -132,7 +132,22 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 
 ##  CHANGELOG
 
-### Azkarra v.1.0.2 (LATEST VERSION) - [22.10.2023]
+### Azkarra v.1.0.3 (LATEST VERSION) - [06.11.2023]
+- Updated user guide (pdf)
+
+Feature:
+- Possibility to change the location of the product gallery (to left for desktop)
+- Theme option: enable/disable the display of limiter and view-mode in the listing toolbar
+
+Improvements:
+- Renaming the "Settings" section to "Preferences" (on mobile menu)
+- Styles
+  
+Bugfix:
+- Script 'smooth scroll to anchor' (hash# without identificator in url)
+- Whishlist styling
+
+### Azkarra v.1.0.2 - [22.10.2023]
 - Updated user guide (pdf)
 
 Feature:
