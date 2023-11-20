@@ -2,7 +2,7 @@
 
 ![Azkara Theme - cover](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/azkarra-cover_BLACK-FRIDAY.jpg)
 ## BLACK WEEK 
-Price: $149 $99 with code **AzkarraWeek**
+Price: ~~$149~~ $99 with code **AzkarraWeek**
 (21.11.2023 - 28.11.2023)
 
 
