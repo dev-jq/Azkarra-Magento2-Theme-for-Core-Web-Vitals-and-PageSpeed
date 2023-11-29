@@ -1,10 +1,6 @@
 # Azkarra Theme optimized for Core Web Vitals and SEO
 
-![Azkara Theme - cover](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/azkarra-cover_BLACK-FRIDAY.jpg)
-## BLACK WEEK 
-Price: ~~$149~~ $99 with code **AzkarraWeek**
-(21.11.2023 - 28.11.2023)
-
+![Azkara Theme - cover](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/azkarra-cover.png)
 
 ## Contents
 - [About Azkarra](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#rocket-about-azkarra)
