@@ -80,6 +80,9 @@ Found a bug or have an idea to improve our template? Let me know! I value your f
 ## :star: Why Azkarra?
 **This template is the best alternative to the basic Magento Luma template, which lacks many things.** Treat it as an excellent foundation for further developing more advanced 3rd party functionalities for your store!
 
+You **already have a ready M2 store and you can't afford to change the template?** But performance is keeping you awake at night?
+Take a look at the code and my unique optimization solutions and implement the selected solutions into your project!
+
 Planning to **migrate your store from Magento 1 to Magento 2**?
 The AZKARRA template is the ideal solution!
 Kickstart the development of your store with a clean and optimized template that not only boosts performance but also allows customization to meet your specific needs. 
