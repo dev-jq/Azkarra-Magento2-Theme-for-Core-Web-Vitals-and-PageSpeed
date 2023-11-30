@@ -76,6 +76,9 @@ Found a bug or have an idea to improve our template? Let me know! I value your f
 | Omnibus EU Directive (price) on product page | :heavy_check_mark: | :x: |
 | Widget CMS static block custom template (with X close button) | :heavy_check_mark: | :x: |
 | Order status color in admin grid | :heavy_check_mark: | :x: |
+| Possibility to change the location of the product gallery (left or right) | :heavy_check_mark: | :x: |
+| 'Cross-sell' block on the product page | :heavy_check_mark: | :x: |
+| Displaying the number of products in the (cart, category) page title | :heavy_check_mark: | :x: |
 
 ## :star: Why Azkarra?
 **This template is the best alternative to the basic Magento Luma template, which lacks many things.** Treat it as an excellent foundation for further developing more advanced 3rd party functionalities for your store!
@@ -135,6 +138,10 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 - **scripts/** - custom php scripts for Magento CLI (demo data installer, mass action 'image hover' assign)
 
 :loudspeaker: See also custom FREE [Azkarra Backend Theme](https://github.com/dev-jq/M2_AzkarraBackendTheme)  
+
+##  Theme admin configuration
+
+![Azkara Theme - admin configuration](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/theme-full-config.jpg)
 
 ##  CHANGELOG
 
