@@ -42,7 +42,7 @@ Found a bug or have an idea to improve our template? Let me know! I value your f
 ![Azkara Theme - homepage PageSpeed results](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/homepage-pagespeed.png)
 
 
-  ## :chart_with_upwards_trend: Features comparison: Azkarra vs Magento Luma
+## :chart_with_upwards_trend: Features comparison: Azkarra vs Magento Luma
 
 | feature | Azkarra | Luma |
 | --- | --- | --- |
@@ -71,7 +71,6 @@ Found a bug or have an idea to improve our template? Let me know! I value your f
 | footer columns with accordion on mobile | :heavy_check_mark: | :x: |
 | footer brand logos (social media & services) | :heavy_check_mark: | :x: |
 | hover image in products list | :heavy_check_mark: | :x: |
-| checkout 'Order as: Business or Private person" option | :heavy_check_mark: | :x: |
 | qty switcher in cart and minicart | :heavy_check_mark: | :x: |
 | Omnibus EU Directive (price) on product page | :heavy_check_mark: | :x: |
 | Widget CMS static block custom template (with X close button) | :heavy_check_mark: | :x: |
@@ -79,6 +78,20 @@ Found a bug or have an idea to improve our template? Let me know! I value your f
 | Possibility to change the location of the product gallery (left or right) | :heavy_check_mark: | :x: |
 | 'Cross-sell' block on the product page | :heavy_check_mark: | :x: |
 | Displaying the number of products in the (cart, category) page title | :heavy_check_mark: | :x: |
+
+## :chart_with_upwards_trend: Features in CheckoutCustomziation module
+
+| Azkarra Checkout feature |  |
+| --- | --- |
+| Order as: 'Business' or 'Private person" (toggle Company & VAT_id fields) | :heavy_check_mark: |
+| Shipping & Billing form fields reordered | :heavy_check_mark: |
+| Checkout sidebar: cart items before summary | :heavy_check_mark: |
+| Checkout sidebar: cart items initially visible | :heavy_check_mark: |
+| 'Back to cart' link | :heavy_check_mark: |
+| Auto-scroll up to validation message | :heavy_check_mark: |
+| Progress step: Cart | :heavy_check_mark: |
+| Progress step: Login/register | :hourglass_flowing_sand: |
+
 
 ## :star: Why Azkarra?
 **This template is the best alternative to the basic Magento Luma template, which lacks many things.** Treat it as an excellent foundation for further developing more advanced 3rd party functionalities for your store!
