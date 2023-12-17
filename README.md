@@ -139,8 +139,11 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 - **JqDev_AzkarraTheme** - module
 - **JqDev_WebVitals** - module
 - **JqDev_CheckoutCustomization** - module
-- **jq-dev/azzkarra** - theme core files
-- **Azkarra_UserGuide.pdf** - ebook
+- **jq-dev/azzkarra** - main theme
+- **jq-dev/my_azzkarra** - child theme for your customizations
+- **pub/media** - sample images for Azkarra homepage demo
+- **scripts/** - custom PHP scripts for Magento CLI (demo data installer, mass action 'image hover' assign)
+- **Azkarra_UserGuide.pdf** - e-book
 
 
 ### :white_check_mark: FREE (in this repo)
