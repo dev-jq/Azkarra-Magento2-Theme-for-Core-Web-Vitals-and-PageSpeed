@@ -40,7 +40,7 @@
 "Global – pinned notification bar","_pinned-element","<div class=""pinned-element"" style=""padding: 12px 16px 12px 12px;border: 1px solid #17a2b8;background: #17a2b8;color: #ffffff; text-align: center;"">
         You can place here an element to be pinned on up-scroll (shop message, promotion info, banner)
     </div>",1,0
-"Global – footer content (Contact / Information / Help columns)","_footer-content","<div class=""column-footer footer-contact item mobile-accordion"" data-role=""collapsible"">
+"Global – footer content (Contact / Information / Help column / Social media)","_footer-content","<div class=""column-footer footer-contact col-xs-12 col-md-6 col-lg-3 col-xl-2 item mobile-accordion"" data-role=""collapsible"">
     <div class=""column-title"" data-role=""title"">Contact</div>
     <ul class=""links"" data-role=""content"">
         <li>
@@ -57,7 +57,7 @@
         </li>
     </ul>
 </div>
-<div class=""column-footer footer-informations item mobile-accordion"" data-role=""collapsible"">
+<div class=""column-footer col-xs-12 col-md-6 col-lg-2 footer-informations item mobile-accordion"" data-role=""collapsible"">
     <div class=""column-title"" data-role=""title"">Informations</div>
     <ul class=""links"" data-role=""content"">
         <li><a href=""{{store direct_url='about-us'}}"" title=""About Us"">About Us</a></li>
@@ -67,13 +67,21 @@
         <li><a href=""#"" title=""Returns and Refunds"">Returns and Refunds</a></li>
     </ul>
 </div>
-<div class=""column-footer footer-help item mobile-accordion"" data-role=""collapsible"">
+<div class=""column-footer col-xs-12 col-md-6 col-lg-2 footer-help item mobile-accordion"" data-role=""collapsible"">
     <div class=""column-title"" data-role=""title"">Azkarra Help</div>
     <ul class=""links"" data-role=""content"">
-        <li><a href=""{{store direct_url='style-guide'}}"" title=""Help and Support"">STYLEGUIDE</a></li>
+        <li><a href=""{{store direct_url='style-guide'}}"" title=""Help and Support"">STYLE GUIDE</a></li>
         <li><a href=""https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO"" title=""Customer Support"" target=""_blank"">Customer Support</a></li>
     </ul>
-</div>",1,0
+</div>
+<div class=""column-footer col-xs-12 col-md-6 col-lg-2 footer-custom item mobile-accordion"" data-role="""collapsible"">
+    <div class=""column-title"" data-role=""title"">Another column</div>
+    <ul class=""links"" data-role=""content"">
+        <li><a title="Link"" href=""{{store direct_url='#'}}"">Example Link 1 </a></li>
+        <li><a title=""Link"" href=""{{store direct_url='#'}}"">Example Link 2 </a></li>
+    </ul>
+</div>
+<div class=""column-footer col-xs-12 col-lg-2 col-xl-4 footer-social"">{{block class=""Magento\Framework\View\Element\Template"" name=""footer.social.links"" template=""Magento_Theme::html/footer/social-media.phtml""}}</div>",1,0
 "Global – footer service logos","_footer-service-logos","<ul class=""service-logos"">
     <li>
         <img data-src=""{{view url='images/footer/cash-on-delivery.svg'}}""
@@ -177,3 +185,6 @@
         </div>
     </div>
 </div>",1,0
+"Global – Shop info message","_shop-info","<div class=""shop-message"" style="";background: #d9edf7;border: 1px solid #bce8f1;"">
+	<p style=""text-align: center;"">Here is an example store message</p>
+</div>",,
