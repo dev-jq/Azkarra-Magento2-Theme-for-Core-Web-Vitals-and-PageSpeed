@@ -21,7 +21,7 @@
 
 - [About project files](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#bell-about-project-files)
 
-- [CHANGELOG & LATEST VERSION: v1.0.4 (01.12.2023)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
+- [CHANGELOG & LATEST VERSION: v1.0.5 (01.01.2024)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
 
 - [Screens: home page, category page and product page](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#home-page-view)
 
@@ -173,22 +173,21 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 
 ##  CHANGELOG
 
-### Azkarra v.1.0.4 (LATEST VERSION) - [01.12.2023]
+### Azkarra v.1.0.5 (LATEST VERSION) - [01.01.2024]
 - Updated user guide (pdf)
-
+- 
 Feature: 
-- Option to show/hide 'Cross-sell' block on the product page
-- Option to display/hide the label 'Delivery before...' (for holidays, etc.) with a gift icon on both the listing and product page
-- Displaying the number of products in the cart page
+- Customer details on checkout success page (config option)
 
 Improvements:
-- Option to show/hide attribute icons on the product page
-- Custom-modal styles (slide from bottom)
-- Custom scrollbar for filter content 
-- Other styles
+- module Checkout Customization
+- Sticky header
+- Form elements styling
+- 'Style Guide' page (link to /style-guide in footer)
+- Responsive Grid classes (footer columns modified & refactored)
+- Hover image - performance optimization
 
 Bugfix:
-- Displaying the number of products in the category page
-- Less compilation cases - undefined base color variables
+- Missing add-to-links in crossell on the product page
 
 ### [Click here to see the entire CHANGELOG](https://github.com/dev-jq/Azkarra-Magento2-Theme-for-Core-Web-Vitals-and-SEO/blob/main/changelog.md)
