@@ -90,7 +90,8 @@ Found a bug or have an idea to improve our template? Let me know! I value your f
 | 'Back to cart' link | :heavy_check_mark: |
 | Auto-scroll up to validation message | :heavy_check_mark: |
 | Progress step: Cart | :heavy_check_mark: |
-| Progress step: Login/register | :hourglass_flowing_sand: |
+| Progress step: Login/register page | :heavy_check_mark: |
+| Customer details on checkout success page | :heavy_check_mark: |
 
 
 ## :star: Why Azkarra?
