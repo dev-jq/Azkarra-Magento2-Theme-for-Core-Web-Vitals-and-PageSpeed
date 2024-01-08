@@ -147,10 +147,8 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 - **Azkarra_UserGuide.pdf** - e-book
 
 
-### :white_check_mark: FREE (in this repo)
-- **jq-dev/my_azzkarra** - child theme for your customizations
-- **jq-dev/custom_azzkarra** - example theme with customizations (colors, fonts, etc) and other 3rd party modules integration
-- **pub/media** - sample images for Azkarra demo
+### EXAMPLES (in this repo)
+- **jq-dev/custom_azzkarra** - example child theme with customizations (colors, fonts, etc) and other 3rd party modules integration.
 - **pub/errors** - maintenance (errors page) template
 - **scripts/** - custom php scripts for Magento CLI (demo data installer, mass action 'image hover' assign)
 
