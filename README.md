@@ -1,4 +1,4 @@
-# Azkarra Theme optimized for Core Web Vitals and SEO
+# Azkarra Theme optimized for Core Web Vitals and PageSpeed score!
 
 ![Azkara Theme - cover](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/azkarra-cover.png)
 
