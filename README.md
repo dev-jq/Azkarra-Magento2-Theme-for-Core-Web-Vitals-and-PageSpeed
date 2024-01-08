@@ -124,7 +124,7 @@ Kickstart the development of your store with a clean and optimized template that
 :point_right:
 **Core package files and documentation are premium available** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme)
 
-Demo data and child theme for our customizations and example modifications are available in this repo for FREE!
+I provide a demo version of the entire theme for evaluation before making a purchase.
 
 ## System Requirements
 
@@ -173,7 +173,6 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 
 ### Azkarra v.1.0.5 (LATEST VERSION) - [01.01.2024]
 - Updated user guide (pdf)
-- 
 Feature: 
 - Customer details on checkout success page (config option)
 
