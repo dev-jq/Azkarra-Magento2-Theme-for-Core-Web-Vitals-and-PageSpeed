@@ -21,7 +21,7 @@
 
 - [About project files](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#bell-about-project-files)
 
-- [CHANGELOG & LATEST VERSION: v1.0.5 (01.01.2024)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
+- [CHANGELOG & LATEST VERSION: v1.0.6 (17.02.2024)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
 
 - [Screens: home page, category page and product page](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#home-page-view)
 
@@ -171,20 +171,17 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 
 ##  CHANGELOG
 
-### Azkarra v.1.0.5 (LATEST VERSION) - [01.01.2024]
-- Updated user guide (pdf)
+### Azkarra v.1.0.6 (LATEST VERSION) - [17.02.2024]
 Feature: 
-- Customer details on checkout success page (config option)
+- New config for product details (enable/disable attribute table and select for widget type: accordion/tabs)
 
 Improvements:
-- module Checkout Customization
-- Sticky header
-- Form elements styling
-- 'Style Guide' page (link to /style-guide in footer)
-- Responsive Grid classes (footer columns modified & refactored)
-- Hover image - performance optimization
+- PageSpeed optimization - reorder <head> elements
+- Checkout - added alfanumeric validation for 'vat_id' field
 
 Bugfix:
-- Missing add-to-links in crossell on the product page
+- desktop sticky header CLS
+- success page error (for virtual product)
+- possibility to change the billing address
 
 ### [Click here to see the entire CHANGELOG](https://github.com/dev-jq/Azkarra-Magento2-Theme-for-Core-Web-Vitals-and-SEO/blob/main/changelog.md)
