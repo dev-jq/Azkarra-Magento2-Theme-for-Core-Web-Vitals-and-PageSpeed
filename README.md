@@ -155,7 +155,14 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 
 ##  Theme admin configuration
 
-![Azkara Theme - admin configuration](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/theme-full-config.jpg)
+theme:
+![Azkara Theme - admin configuration](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/azkara-config.jpg)
+
+checkout:
+![Azkara Theme - admin configuration](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/checkout-config.jpg)
+
+web vitals:
+![Azkara Theme - admin configuration](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/web-vitals-config.jpg)
 
 ## Home page view:
 
