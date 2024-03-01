@@ -21,7 +21,7 @@
 
 - [About project files](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#bell-about-project-files)
 
-- [CHANGELOG & LATEST VERSION: v1.0.6 (17.02.2024)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
+- [CHANGELOG & LATEST VERSION: v1.0.7 (01.03.2024)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
 
 - [Screens: home page, category page and product page](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#home-page-view)
 
@@ -178,17 +178,16 @@ web vitals:
 
 ##  CHANGELOG
 
-### Azkarra v.1.0.6 (LATEST VERSION) - [17.02.2024]
-Feature: 
-- New config for product details (enable/disable attribute table and select for widget type: accordion/tabs)
+### Azkarra v.1.0.7 (LATEST VERSION) - [01.03.2024]
+- Updated user guide - FAQ: 404 errors for JS files, from 3rd party modules
 
 Improvements:
-- PageSpeed optimization - reorder <head> elements
-- Checkout - added alfanumeric validation for 'vat_id' field
+- JqDev_WebVitals module: critical JS maping config moving to a separate file
+- product tabs styles
+- category description - section redesign
 
 Bugfix:
-- desktop sticky header CLS
-- success page error (for virtual product)
-- possibility to change the billing address
+- category ajax add to cart without redirect to product page 
+- product page crossell - hide 'Perfectly matched' block title when 0 products
 
 ### [Click here to see the entire CHANGELOG](https://github.com/dev-jq/Azkarra-Magento2-Theme-for-Core-Web-Vitals-and-SEO/blob/main/changelog.md)
