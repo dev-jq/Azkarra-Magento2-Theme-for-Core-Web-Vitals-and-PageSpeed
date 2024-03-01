@@ -1,3 +1,15 @@
+### Azkarra v1.0.7 - [01.03.2024]
+- Updated user guide - FAQ: 404 errors for JS files, from 3rd party modules
+
+Improvements:
+- JqDev_WebVitals module: critical JS maping config moving to a separate file
+- product tabs styles
+- category description - section redesign
+
+Bugfix:
+- category ajax add to cart without redirect to product page 
+- product page crossell - hide 'Perfectly matched' block title when 0 products
+
 ### Azkarra v.1.0.6 - [17.02.2024]
 Feature: 
 - New config for product details (enable/disable attribute table and select for widget type: accordion/tabs)
