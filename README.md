@@ -145,6 +145,7 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 - **pub/media** - sample images for Azkarra homepage demo
 - **scripts/** - custom PHP scripts for Magento CLI (demo data installer, mass action 'image hover' assign)
 - **Azkarra_UserGuide.pdf** - e-book
+- and **access (after invitation) to code in private reposytory**
 
 
 ### EXAMPLES in this repo
