@@ -128,7 +128,7 @@ I provide a demo version of the entire theme for evaluation before making a purc
 
 ## System Requirements
 
-Theme Azkarra 1.0.1 was developed and tested on Magento versions:
+Theme Azkarra was developed and tested on Magento versions:
 - 2.4.6 (with PHP 8.1) 
 - 2.4.5 (with PHP 7.4)
 - 2.4.4 (with PHP 8.1)
@@ -145,7 +145,7 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 - **pub/media** - sample images for Azkarra homepage demo
 - **scripts/** - custom PHP scripts for Magento CLI (demo data installer, mass action 'image hover' assign)
 - **Azkarra_UserGuide.pdf** - e-book
-- and **access (after invitation) to code in private reposytory**
+- and **access (after invitation) to code in private repository**
 
 
 ### EXAMPLES in this repo
