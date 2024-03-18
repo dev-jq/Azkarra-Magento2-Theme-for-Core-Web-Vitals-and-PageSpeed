@@ -41,6 +41,27 @@ Found a bug or have an idea to improve our template? Let me know! I value your f
 *Sample measurement results for mobile and desktop with demo data on external webserver in production mode (Google Pagespeed):*
 ![Azkara Theme - homepage PageSpeed results](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/homepage-pagespeed.png)
 
+## :star: Why Azkarra?
+**This template is the best alternative to the basic Magento Luma template, which lacks many things.** Treat it as an excellent foundation for further developing more advanced 3rd party functionalities for your store!
+
+You **already have a ready M2 store and you can't afford to change the template?** But performance is keeping you awake at night?
+Take a look at the code and my unique optimization solutions and implement the selected solutions into your project!
+
+Planning to **migrate your store from Magento 1 to Magento 2**?
+The AZKARRA template is the ideal solution!
+Kickstart the development of your store with a clean and optimized template that not only boosts performance but also allows customization to meet your specific needs. 
+
+:point_right: **Native theme** (based on Magento Luma), meticulously refined and optimized.
+
+:point_right: Achieve **high-performance** scores **without** relying on Hyva or PWA.
+
+:point_right: Multi-purpose **theme for any industry**: simple and aesthetic appearance without unnecessary effects that could slow down the store's performance.
+
+:point_right: Receive comprehensive PDF documentation and guidelines to maintain high performance while implementing additional external modules and functionalities.
+
+:point_right: **Free updates** in case of any potential issues.
+
+:point_right:  **One-time purchase without domain licenses!** Utilize Azkarra across multiple projects with ease!
 
 ## :chart_with_upwards_trend: Features comparison: Azkarra vs Magento Luma
 
@@ -92,29 +113,6 @@ Found a bug or have an idea to improve our template? Let me know! I value your f
 | Progress step: Cart | :heavy_check_mark: |
 | Progress step: Login/register page | :heavy_check_mark: |
 | Customer details on checkout success page | :heavy_check_mark: |
-
-
-## :star: Why Azkarra?
-**This template is the best alternative to the basic Magento Luma template, which lacks many things.** Treat it as an excellent foundation for further developing more advanced 3rd party functionalities for your store!
-
-You **already have a ready M2 store and you can't afford to change the template?** But performance is keeping you awake at night?
-Take a look at the code and my unique optimization solutions and implement the selected solutions into your project!
-
-Planning to **migrate your store from Magento 1 to Magento 2**?
-The AZKARRA template is the ideal solution!
-Kickstart the development of your store with a clean and optimized template that not only boosts performance but also allows customization to meet your specific needs. 
-
-:point_right: **Native theme** (based on Magento Luma), meticulously refined and optimized.
-
-:point_right: Achieve **high-performance** scores **without** relying on Hyva or PWA.
-
-:point_right: Multi-purpose **theme for any industry**: simple and aesthetic appearance without unnecessary effects that could slow down the store's performance.
-
-:point_right: Receive comprehensive PDF documentation and guidelines to maintain high performance while implementing additional external modules and functionalities.
-
-:point_right: **Free updates** in case of any potential issues.
-
-:point_right:  **One-time purchase without domain licenses!** Utilize Azkarra across multiple projects with ease!
 
 ## :speech_balloon: Customer reviews
 ![Customer review-Stattys](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/benjamin-stattys_long.png)
