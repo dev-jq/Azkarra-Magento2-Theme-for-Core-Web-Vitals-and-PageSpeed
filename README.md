@@ -21,7 +21,7 @@
 
 - [About project files](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#bell-about-project-files)
 
-- [CHANGELOG & LATEST VERSION: v1.0.7 (01.03.2024)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
+- [CHANGELOG & LATEST VERSION: v1.0.8 (25.03.2024)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
 
 - [Screens: home page, category page and product page](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#home-page-view)
 
@@ -99,6 +99,7 @@ Kickstart the development of your store with a clean and optimized template that
 | Possibility to change the location of the product gallery (left or right) | :heavy_check_mark: | :x: |
 | 'Cross-sell' block on the product page | :heavy_check_mark: | :x: |
 | Displaying the number of products in the (cart, category) page title | :heavy_check_mark: | :x: |
+| Customized select (dropdown) with CSS | :heavy_check_mark: | :x: |
 
 ## :chart_with_upwards_trend: Features in CheckoutCustomziation module
 
@@ -140,6 +141,7 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 - **JqDev_CheckoutCustomization** - module
 - **jq-dev/azzkarra** - main theme
 - **jq-dev/my_azzkarra** - child theme for your customizations
+- **jq-dev/my_cwv_theme** - theme for your current theme to make your own optimization with only JqDev_WebVitals module (without Azkarra design)
 - **pub/media** - sample images for Azkarra homepage demo
 - **scripts/** - custom PHP scripts for Magento CLI (demo data installer, mass action 'image hover' assign)
 - **Azkarra_UserGuide.pdf** - e-book
@@ -177,16 +179,20 @@ web vitals:
 
 ##  CHANGELOG
 
-### Azkarra v.1.0.7 (LATEST VERSION) - [01.03.2024]
+### Azkarra v.1.0.8 (LATEST VERSION) - [25.03.2024]
 - Updated user guide - FAQ: 404 errors for JS files, from 3rd party modules
 
+Feature:
+- option to replace default select with custom dropdown (styled in CSS)
+- WebVitals module: JS library for tracking metrics
+- 
 Improvements:
-- JqDev_WebVitals module: critical JS maping config moving to a separate file
-- product tabs styles
-- category description - section redesign
-
+- New base template to optimize Core Web Vitals in current store theme
+- passive event listeners by using EventTarget (in slick.js slider)
+- WebVitals module: config options in Admin
+  
 Bugfix:
-- category ajax add to cart without redirect to product page 
-- product page crossell - hide 'Perfectly matched' block title when 0 products
+- JqDev_CheckoutCustomization module: exception (Deprecated Functionality) in PHP 8.2
+- typo in import demo data file (blocks.csv)
 
 ### [Click here to see the entire CHANGELOG](https://github.com/dev-jq/Azkarra-Magento2-Theme-for-Core-Web-Vitals-and-SEO/blob/main/changelog.md)
