@@ -1,3 +1,19 @@
+### Azkarra v.1.0.8 - [25.03.2024]
+- Updated user guide - FAQ: 404 errors for JS files, from 3rd party modules
+
+Feature:
+- option to replace default select with custom dropdown (styled in CSS)
+- WebVitals module: JS library for tracking metrics
+- 
+Improvements:
+- New base template to optimize Core Web Vitals in current store theme
+- passive event listeners by using EventTarget (in slick.js slider)
+- WebVitals module: config options in Admin
+  
+Bugfix:
+- JqDev_CheckoutCustomization module: exception (Deprecated Functionality) in PHP 8.2
+- typo in import demo data file (blocks.csv)
+
 ### Azkarra v1.0.7 - [01.03.2024]
 - Updated user guide - FAQ: 404 errors for JS files, from 3rd party modules
 
