@@ -1,3 +1,10 @@
+### Azkarra v.1.0.9 - [02.04.2024]
+Improvements:
+- Improved minimal price from 30 days for configurable products
+  
+Bugfix:
+- PageBuilder styles compatibility
+
 ### Azkarra v.1.0.8 - [25.03.2024]
 - Updated user guide - FAQ: 404 errors for JS files, from 3rd party modules
 
