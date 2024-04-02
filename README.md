@@ -21,7 +21,7 @@
 
 - [About project files](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#bell-about-project-files)
 
-- [CHANGELOG & LATEST VERSION: v1.0.8 (25.03.2024)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
+- [CHANGELOG & LATEST VERSION: v1.0.9 (02.04.2024)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
 
 - [Screens: home page, category page and product page](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#home-page-view)
 
@@ -179,20 +179,11 @@ web vitals:
 
 ##  CHANGELOG
 
-### Azkarra v.1.0.8 (LATEST VERSION) - [25.03.2024]
-- Updated user guide - FAQ: 404 errors for JS files, from 3rd party modules
-
-Feature:
-- option to replace default select with custom dropdown (styled in CSS)
-- WebVitals module: JS library for tracking metrics
-- 
+### Azkarra v.1.0.9 (LATEST VERSION) - [02.04.2024]
 Improvements:
-- New base template to optimize Core Web Vitals in current store theme
-- passive event listeners by using EventTarget (in slick.js slider)
-- WebVitals module: config options in Admin
+- Improved minimal price from 30 days for configurable products
   
 Bugfix:
-- JqDev_CheckoutCustomization module: exception (Deprecated Functionality) in PHP 8.2
-- typo in import demo data file (blocks.csv)
+- PageBuilder styles compatibility
 
 ### [Click here to see the entire CHANGELOG](https://github.com/dev-jq/Azkarra-Magento2-Theme-for-Core-Web-Vitals-and-SEO/blob/main/changelog.md)
