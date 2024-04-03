@@ -15,7 +15,7 @@
 
 - [Customer reviews](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#speech_balloon-customer-reviews)
 
-- [Price: 149$ - How to get?](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#how-to-get)
+- [Price & How to get?](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#how-to-get)
 
 - [System Requirements](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#system-requirements)
 
@@ -121,7 +121,7 @@ Kickstart the development of your store with a clean and optimized template that
 ## How to get?
 
 :point_right:
-**Core package files and documentation are premium available** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme)
+**Core package files and documentation are premium available** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme/github) <<== include Discount Code -10% only for GitHub users!
 
 I provide a demo version of the entire theme for evaluation before making a purchase.
 
