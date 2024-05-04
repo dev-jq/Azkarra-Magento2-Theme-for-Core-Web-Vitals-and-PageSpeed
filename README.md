@@ -123,7 +123,7 @@ Kickstart the development of your store with a clean and optimized template that
 :point_right:
 **Core package files and documentation are premium available** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme/github) <<== include Discount Code -10% only for GitHub users!
 
-I provide a demo version of the entire theme for evaluation before making a purchase.
+I provide a **demo version of the entire theme** for evaluation before making a purchase (this does not include access to the template's source code).
 
 ## System Requirements
 
