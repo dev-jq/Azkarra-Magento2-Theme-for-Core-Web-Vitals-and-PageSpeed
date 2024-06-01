@@ -1,3 +1,13 @@
+### Azkarra v.1.0.10 - [01.06.2024]
+- Updated user guide 
+- Separate GIT branches (and folders with downloadable files) for the appropriate Magento versions
+
+Improvements:
+- Azkarra compaibility with Magento 2.4.7
+  
+Bugfix:
+- Minicart: overflow when more than 3 products in cart 
+
 ### Azkarra v.1.0.9 - [02.04.2024]
 Improvements:
 - Improved minimal price from 30 days for configurable products
@@ -11,7 +21,7 @@ Bugfix:
 Feature:
 - option to replace default select with custom dropdown (styled in CSS)
 - WebVitals module: JS library for tracking metrics
-- 
+  
 Improvements:
 - New base template to optimize Core Web Vitals in current store theme
 - passive event listeners by using EventTarget (in slick.js slider)
