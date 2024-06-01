@@ -5,7 +5,7 @@
 ## Contents
 - [About Azkarra](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#rocket-about-azkarra)
 
-- [Azkara DEMO](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#boom-azkarra-demo)
+- [Azkara live DEMO](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#boom-azkarra-demo)
 
 - [Performance results](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#1-performance-results)
 
@@ -21,7 +21,7 @@
 
 - [About project files](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#bell-about-project-files)
 
-- [CHANGELOG & LATEST VERSION: v1.0.9 (02.04.2024)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
+- [CHANGELOG & LATEST VERSION: v1.0.10 (01.06.2024)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
 
 - [Screens: home page, category page and product page](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#home-page-view)
 
@@ -121,13 +121,14 @@ Kickstart the development of your store with a clean and optimized template that
 ## How to get?
 
 :point_right:
-**Core package files and documentation are premium available** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme/github) <<== include Discount Code -10% only for GitHub users!
+**Core package files and documentation are premium available** [on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme/)
 
-I provide a **demo version of the entire theme** for evaluation before making a purchase (this does not include access to the template's source code).
+I provide a **live DEMO version of the entire theme** for evaluation before making a purchase (this does not include access to the template's source code): [CLICK HERE to see it in action](https://m10454.app-on-demand.net/)
 
 ## System Requirements
 
 Theme Azkarra was developed and tested on Magento versions:
+- 2.4.7 (with PHP 8.2) - _starting from Azkarra v.1.0.10_
 - 2.4.6 (with PHP 8.1) 
 - 2.4.5 (with PHP 7.4)
 - 2.4.4 (with PHP 8.1)
@@ -179,11 +180,14 @@ web vitals:
 
 ##  CHANGELOG
 
-### Azkarra v.1.0.9 (LATEST VERSION) - [02.04.2024]
+### Azkarra v.1.0.10 (LATEST VERSION) - [01.06.2024]
+- Updated user guide 
+- Separate GIT branches (and folders with downloadable files) for the appropriate Magento versions
+
 Improvements:
-- Improved minimal price from 30 days for configurable products
+- Azkarra compaibility with Magento 2.4.7
   
 Bugfix:
-- PageBuilder styles compatibility
+- Minicart: overflow when more than 3 products in cart 
 
 ### [Click here to see the entire CHANGELOG](https://github.com/dev-jq/Azkarra-Magento2-Theme-for-Core-Web-Vitals-and-SEO/blob/main/changelog.md)
