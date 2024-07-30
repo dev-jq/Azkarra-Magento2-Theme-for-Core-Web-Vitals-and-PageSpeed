@@ -168,15 +168,15 @@ web vitals:
 
 ## Home page view:
 
-![Azkara Theme - home page](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/teaser-home.jpg)
+![Azkara Theme - home page](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/teaser-home.png)
 
 ## Category page view:
 
-![Azkara Theme - product page](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/teaser-category.gif)
+![Azkara Theme - product page](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/teaser-category.png)
 
 ## Product page view:
 
-![Azkara Theme - product page](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/teaser-product.gif)
+![Azkara Theme - product page](https://github.com/jq91/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/blob/main/_readme-assets/teaser-product.png)
 
 ##  CHANGELOG
 
