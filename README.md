@@ -21,7 +21,7 @@
 
 - [About project files](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#bell-about-project-files)
 
-- [CHANGELOG & LATEST VERSION: v1.0.10 (01.06.2024)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
+- [CHANGELOG & LATEST VERSION: v1.0.11 (01.08.2024)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
 
 - [Screens: home page, category page and product page](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#home-page-view)
 
@@ -100,6 +100,7 @@ Kickstart the development of your store with a clean and optimized template that
 | 'Cross-sell' block on the product page | :heavy_check_mark: | :x: |
 | Displaying the number of products in the (cart, category) page title | :heavy_check_mark: | :x: |
 | Customized select (dropdown) with CSS | :heavy_check_mark: | :x: |
+| Pagebuilder lazyload for images & backgrounds | :heavy_check_mark: | :x: |
 
 ## :chart_with_upwards_trend: Features in CheckoutCustomziation module
 
@@ -128,12 +129,10 @@ I provide a **live DEMO version of the entire theme** for evaluation before maki
 ## System Requirements
 
 Theme Azkarra was developed and tested on Magento versions:
-- 2.4.7 (with PHP 8.2) - _starting from Azkarra v.1.0.10_
-- 2.4.6 (with PHP 8.1) 
-- 2.4.5 (with PHP 7.4)
-- 2.4.4 (with PHP 8.1)
+- 2.4.7 _starting from Azkarra v.1.0.10_
+- 2.4.6
 
-You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I can help you further, write a message!
+You have an older version 2.4.0 - 2.4.5 and would also like to have Azkarra? I can help you further, write a message!
 
 ## :bell: About project files
 ### :star: PREMIUM ([on Gumroad](https://jqdev.gumroad.com/l/azkarra-theme))
@@ -142,7 +141,6 @@ You have an older version 2.4.0 - 2.4.3 and would also like to have Azkarra? I c
 - **JqDev_CheckoutCustomization** - module
 - **jq-dev/azzkarra** - main theme
 - **jq-dev/my_azzkarra** - child theme for your customizations
-- **jq-dev/my_cwv_theme** - theme for your current theme to make your own optimization with only JqDev_WebVitals module (without Azkarra design)
 - **pub/media** - sample images for Azkarra homepage demo
 - **scripts/** - custom PHP scripts for Magento CLI (demo data installer, mass action 'image hover' assign)
 - **Azkarra_UserGuide.pdf** - e-book
@@ -180,14 +178,19 @@ web vitals:
 
 ##  CHANGELOG
 
-### Azkarra v.1.0.10 (LATEST VERSION) - [01.06.2024]
-- Updated user guide 
-- Separate GIT branches (and folders with downloadable files) for the appropriate Magento versions
-
+### Azkarra v.1.0.11 (LATEST VERSION) - [01.08.2024]
+Feature:
+- PageBuilder lazyload for image & background
+- Catalog widgets "Slider" template option
+  
 Improvements:
-- Azkarra compaibility with Magento 2.4.7
+- Theme redesign
+- Product compare - styling improvements & config option to enable/disable functionality
+- PageBuilder wysiwyg editor for HTML element & toolbar extend (added align justify & source code buttons)
   
 Bugfix:
-- Minicart: overflow when more than 3 products in cart 
+- Toolbar sorter missing parameter value
+- Magento fotorama - cannot slide images in product page on mobile
+- Style dupliactions in styles-l.css output
 
 ### [Click here to see the entire CHANGELOG](https://github.com/dev-jq/Azkarra-Magento2-Theme-for-Core-Web-Vitals-and-SEO/blob/main/changelog.md)
