@@ -31,7 +31,7 @@
 Azkarra - the fastest and most optimized Magento 2.4.x native theme! Based on the Magento Luma theme, it is tailored to deliver exceptional Core Web Vitals and SEO performance. Drawing from years of frontend expertise in Magento.
 ## :boom: Azkarra DEMO
 
-**Azkara** Theme on Magento 2.4.6-p3 with demo data **is available!**
+**Azkara** Theme on Magento 2.4.6-p7 with demo data **is available!**
 
 :point_right: [CLICK HERE to see it in action](https://m10454.app-on-demand.net/) :point_left:
 
