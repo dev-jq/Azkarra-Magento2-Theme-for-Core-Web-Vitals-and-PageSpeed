@@ -21,7 +21,7 @@
 
 - [About project files](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#bell-about-project-files)
 
-- [CHANGELOG & LATEST VERSION: v1.0.11 (01.08.2024)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
+- [CHANGELOG & LATEST VERSION: v1.0.12 (19.10.2024)](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#changelog)
 
 - [Screens: home page, category page and product page](https://github.com/dev-jq/M2-AzkarraTheme-for-Core-Web-Vitals-and-SEO/tree/main#home-page-view)
 
@@ -178,19 +178,6 @@ web vitals:
 
 ##  CHANGELOG
 
-### Azkarra v.1.0.11 (LATEST VERSION) - [01.08.2024]
-Feature:
-- PageBuilder lazyload for image & background
-- Catalog widgets "Slider" template option
-  
-Improvements:
-- Theme redesign
-- Product compare - styling improvements & config option to enable/disable functionality
-- PageBuilder wysiwyg editor for HTML element & toolbar extend (added align justify & source code buttons)
-  
-Bugfix:
-- Toolbar sorter missing parameter value
-- Magento fotorama - cannot slide images in product page on mobile
-- Style dupliactions in styles-l.css output
+### Azkarra v.1.0.12 (LATEST VERSION) - [19.10.2024]
 
 ### [Click here to see the entire CHANGELOG](https://github.com/dev-jq/Azkarra-Magento2-Theme-for-Core-Web-Vitals-and-SEO/blob/main/changelog.md)
